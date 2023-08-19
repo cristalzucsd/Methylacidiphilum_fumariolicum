@@ -1,0 +1,174 @@
+rxn_id,Level_1,Level_2
+PGCD,Amino Acid Biosynthesis,Amino Acid
+H4THDPR,Amino Acid Biosynthesis,Amino Acid
+PSP_L,Amino Acid Biosynthesis,Amino Acid
+KARI_23dhmb,Amino Acid Biosynthesis,Amino Acid
+METS,Amino Acid Biosynthesis,Amino Acid
+HSDy,Amino Acid Biosynthesis,Amino Acid
+H4THDPRx,Amino Acid Biosynthesis,Amino Acid
+KARA2x,Amino Acid Biosynthesis,Amino Acid
+HCYSMT,Amino Acid Biosynthesis,
+HSDH,Amino Acid Biosynthesis,
+IG3PS,Amino Acid Biosynthesis,
+IG3PS_2,Amino Acid Biosynthesis,
+G5SD,Amino Acid Biosynthesis,
+GLU5K,Amino Acid Biosynthesis,
+MHPGLUT,Amino Acid Biosynthesis,
+P5CRx,Amino Acid Degradation,Amino Acid
+AHCi,Amino Acid Degradation,
+METAT,Amino Acid Degradation,
+P5CR,Amino Acid Degradation,
+PUTA3,Amino Acid Degradation,
+MTHFD_1,C1 metabolism,Energy Metabolism
+FDH,C1 metabolism,Energy Metabolism
+FTHFD,C1 metabolism,Energy Metabolism
+MTHFC,C1 metabolism,Energy Metabolism
+FALTHFL,C1 metabolism,
+DHAK,C1 metabolism,
+FALDHpp,C1 metabolism,
+FTHFLi,C1 metabolism,
+MEOHDHpp,C1 metabolism,
+PMMOipp,C1 metabolism,
+ACOHDHpp,C3 metabolism,
+ALCD2x,C3 metabolism,
+GLYOX,C3 metabolism,
+LDH_D,C3 metabolism,
+LGTHL,C3 metabolism,
+LGTHL_r,C3 metabolism,
+ACTNMOq8,C3 metabolism,
+C3H8OXq8,C3 metabolism,
+IPPOHDHpp,C3 metabolism,
+PRUK,CO<sub>2</sub> Fixation,CO<sub>2</sub> Fixation
+GAPDy,CO<sub>2</sub> Fixation,CO<sub>2</sub> Fixation
+RBPC,CO<sub>2</sub> Fixation,CO<sub>2</sub> Fixation
+SBP,CO<sub>2</sub> Fixation,
+FBA3,CO<sub>2</sub> Fixation,
+FBA3_r,CO<sub>2</sub> Fixation,
+PSERT,Cofactors Biosynthesis,Amino Acid
+PSERT_r,Cofactors Biosynthesis,Amino Acid
+DHPM1,Cofactors Biosynthesis,
+DURAD,Cofactors Biosynthesis,
+UPPN,Cofactors Biosynthesis,
+PPNCL3,Cofactors Biosynthesis,Cofactors Biosynthesis Biosynthesis
+PC1MT,Cofactors Biosynthesis,Cofactors Biosynthesis Biosynthesis
+PPNCL2,Cofactors Biosynthesis,Cofactors Biosynthesis Biosynthesis
+SAMU3_1,Cofactors Biosynthesis,Cofactors Biosynthesis Biosynthesis
+UPP3MT,Cofactors Biosynthesis,Cofactors Biosynthesis Biosynthesis
+ASP1DC,Cofactors Biosynthesis,
+NADPHQR3,ETC,
+CYO1_KT,ETC,Energy Metabolism
+THD2pp,ETC,
+EAR80y,Fatty Acids,Fatty Acids
+EAR60y,Fatty Acids,Fatty Acids
+G3PD2,Fatty Acids,Fatty Acids
+EAR180y,Fatty Acids,Fatty Acids
+EAR60x,Fatty Acids,Fatty Acids
+EAR40x,Fatty Acids,Fatty Acids
+EAR40y,Fatty Acids,Fatty Acids
+EAR80x,Fatty Acids,Fatty Acids
+EAR180x,Fatty Acids,Fatty Acids
+FACOAE120,Fatty Acids,
+ACS,Fermentation,
+GHMT2r,Fermentation,Energy Metabolism
+PKETX,Fermentation,Energy Metabolism
+PTAr,Fermentation,
+PTAr_r,Fermentation,
+PYK,Fermentation,
+ACKr,Fermentation,
+ALDD2x,Fermentation,
+POR_syn,Fermentation,
+ACYP_2,Fermentation,
+MALS,Glycolate Degradation,
+PGK,Glycolysis,Energy Metabolism
+PGI,Glycolysis,Energy Metabolism
+ENO,Glycolysis,Energy Metabolism
+PPS,Glycolysis,Energy Metabolism
+PGM,Glycolysis,Energy Metabolism
+TPI,Glycolysis,Energy Metabolism
+G3PD1,Glycolysis,Energy Metabolism
+PEPC,Glycolysis,
+ENO_r,Glycolysis,Energy Metabolism
+PGI_r,Glycolysis,Energy Metabolism
+FBP,Glycolysis,
+FBA,Glycolysis,
+PYK3,Glycolysis,
+GLUDy,Nitrogen,
+GLUDxi_r,Nitrogen,Acid resistance
+NTRIR2x,Nitrogen,
+GLNS,Nitrogen,
+ADK1,Nucleotides/sides Biosynthesis,Amino Acid
+AGPOP,Other,Nucleotides/sides
+DAPOPc,Other,Nucleotides/sides
+DCTPD,Other,Nucleotides/sides
+DCYTD,Other,Nucleotides/sides
+DHAPT,Glycolysis,Nucleotides/sides
+DURADx,Cofactors Biosynthesis,Nucleotides/sides
+DURIPP,Nucleotides/sides Degradation,Nucleotides/sides
+GLYCL,Nucleotides/sides Biosynthesis,Nucleotides/sides
+NDPK2,Nucleotides/sides Biosynthesis,Nucleotides/sides
+NDPK3,Nucleotides/sides Biosynthesis,Nucleotides/sides
+NDPK6,Nucleotides/sides Biosynthesis,Nucleotides/sides
+NDPK7,Nucleotides/sides Biosynthesis,Nucleotides/sides
+NDPK8,Nucleotides/sides Biosynthesis,
+NTD3pp,Other,
+NTPP3,Nucleotides/sides Degradation,
+RNDR1,Nucleotides/sides Biosynthesis,
+RNDR2,Nucleotides/sides Biosynthesis,
+RNDR3,Nucleotides/sides Biosynthesis,
+RNDR4,Nucleotides/sides Biosynthesis,Other
+RNTR2,Other,Other
+RNTR3,Other,Other
+RNTRA2,Nucleotides/sides Biosynthesis,
+SERDA,Nucleotides/sides Degradation,
+TRDR,Other,
+UMPK,Nucleotides/sides Biosynthesis,
+UPPRT,Nucleotides/sides Degradation,
+ABTA,Other,Acid resistance
+SSALx,Other,Acid resistance
+GLUDC,Other,Acid resistance
+GLUDxi,Other,Acid resistance
+PGAMT,Other,Carbohydrate
+G1PACT,Other,Carbohydrate
+ACGAM6PS,Other,Carbohydrate
+ACGAMPM,Other,Carbohydrate
+PPM,Other,Carbohydrate
+PRPPS,Other,Carbohydrate
+APDH,Other,
+DRPA,Other,
+PPM2,Other,
+TKT1,Pentose Phosphate,Energy Metabolism
+PGL,Pentose Phosphate,Energy Metabolism
+G6PDH2r,Pentose Phosphate,Energy Metabolism
+GND,Pentose Phosphate,Energy Metabolism
+RPI,Pentose Phosphate,Energy Metabolism
+TKT2,Pentose Phosphate,Energy Metabolism
+TALA,Pentose Phosphate,Energy Metabolism
+RPI_r,Pentose Phosphate,Energy Metabolism
+TKT1_r,Pentose Phosphate,Energy Metabolism
+TKT2_r,Pentose Phosphate,Energy Metabolism
+TALA_r,Pentose Phosphate,
+ICHDx,TCA cycle,Energy Metabolism
+MDH,TCA cycle,Energy Metabolism
+CS,TCA cycle,Energy Metabolism
+OOR3r,TCA cycle,Energy Metabolism
+FUM,TCA cycle,Energy Metabolism
+AKGDH,TCA cycle,Energy Metabolism
+SUCOAS,TCA cycle,Energy Metabolism
+ACONT,TCA cycle,Energy Metabolism
+SUCDHq8,TCA cycle,Energy Metabolism
+ICL,TCA cycle,
+FUM_r,TCA cycle,
+SUCOAS_r,TCA cycle,
+SUCDHm8,TCA cycle,
+SUCDHm8_r,TCA cycle,
+SQLSx,Terpenoids Biosynthesis,Terpenoid
+IPDDI,Terpenoids Biosynthesis,Terpenoid
+DMPPS,Terpenoids Biosynthesis,Terpenoid
+PSPPS,Terpenoids Biosynthesis,Terpenoid
+SQLS,Terpenoids Biosynthesis,Terpenoid
+DMPPS1,Terpenoids Biosynthesis,Terpenoid
+SS,Terpenoids Biosynthesis,Terpenoid
+RPE,Terpenoids Biosynthesis,
+SSx,Terpenoids Biosynthesis,
+RPE_r,Terpenoids Biosynthesis,
+GLUSy,Nitrogen,
