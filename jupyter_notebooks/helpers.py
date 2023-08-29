@@ -10,13 +10,16 @@ import cobra
 
 
 def update_biomass(model, BIOMASS_RXN='BIOMASS', GAM=21, NADH=[]):
-    file = 'data_files/biomass.csv'
+    file = '/home/alexis/UAM/Papers/Verrucomicrobia/cobra/Mfumariolicum_pic/data_files/biomass.csv'
     biomass_in_model = pd.read_csv(file, index_col='bigg')
     ATP_growth = GAM
     BM_weight = 0
     stoichiometry = {}
-    model.remove_reactions([BIOMASS_RXN, "DM_biomass"])
-    model.remove_metabolites([model.metabolites.biomass])
+    
+    rxn = model.reactions.get_by_id(BIOMASS_RXN)
+    biomass = model.metabolites.biomass
+    
+    rxn.add_metabolites({met: -rxn.metabolites[met] for met in rxn.metabolites.keys()})
 
     for precursor in biomass_in_model.index:
         try:
@@ -29,28 +32,9 @@ def update_biomass(model, BIOMASS_RXN='BIOMASS', GAM=21, NADH=[]):
                     met = model.metabolites.get_by_id(precursor + '_im')
                 except KeyError:
                     continue
-        # if "nadh_c" in met.id:
-        #     if NADH:
-        #         stoichiometry[met] = -NADH
-        # elif "nad_c" == met.id:
-        #     if NADH:
-        #         stoichiometry[met] = NADH
-        # elif "h_c" == met.id:
-        #     if NADH:
-        #         stoichiometry[met] = NADH + 0.001
-        # else:
         stoichiometry[met] = - biomass_in_model.loc[precursor, 'mmol/gDWbiomass']
         BM_weight += - met.formula_weight * stoichiometry[met]
-
-    # Create biomass metabolite
-    met_to_add = cobra.Metabolite(
-        'biomass', name="biomass"
-    )
-    met_to_add.compartment = 'c'
-    model.add_metabolites(
-        met_to_add
-    )
-
+    
     # biomass molecular weight = 1g/mol
     biomas_coeff = {
         met: stoichiometry[met] * 1000 / BM_weight for met in stoichiometry.keys()
@@ -58,60 +42,49 @@ def update_biomass(model, BIOMASS_RXN='BIOMASS', GAM=21, NADH=[]):
 
     biomas_coeff['biomass'] = 1
 
-    # Create Biomass reaction
-    rxn_to_add = cobra.Reaction(
-        BIOMASS_RXN
-    )
-
-    model.add_reaction(
-        rxn_to_add
-    )
-
     # Add Stoichiometry
-    rxn_to_add.add_metabolites(
+    rxn.add_metabolites(
         biomas_coeff
     )
-    rxn_to_add.upper_bound = 1000
-    rxn_to_add.annotation['sbo'] = 'SBO:0000629'
-
+    rxn.upper_bound = 1000
+    
     # Calculate Biomass formula from element balance
-    element_balance = rxn_to_add.check_mass_balance()
+    element_balance = rxn.check_mass_balance()
     formula = ''
     for e in element_balance:
         if not e == 'charge':
             formula += str(e) + str(format(-element_balance[e], '.30f'))
+    biomass.formula = formula
+    BM_weight = biomass.formula_weight / 1000
 
     energy = {'atp_c': -ATP_growth,
               'adp_c': ATP_growth,
               'pi_c': ATP_growth,
               'h2o_c': ATP_growth}
-    rxn_to_add.add_metabolites(
+    rxn.add_metabolites(
         energy
     )
 
     # Add NAD(P)H and PROTON requirements
-    element_balance = rxn_to_add.check_mass_balance()
+    element_balance = rxn.check_mass_balance()
     energy = {'h_c': -element_balance['charge']}
-    rxn_to_add.add_metabolites(
+    rxn.add_metabolites(
         energy
     )
-    element_balance = rxn_to_add.check_mass_balance()
-    rxn_to_add.add_metabolites(
+    element_balance = rxn.check_mass_balance()
+    rxn.add_metabolites(
         {'h2o_c': -element_balance['O']}
     )
-    element_balance = rxn_to_add.check_mass_balance()
-    rxn_to_add.add_metabolites(
+    element_balance = rxn.check_mass_balance()
+    rxn.add_metabolites(
         {'h_c': -element_balance['H'] / 2,
          'nadh_c': -element_balance['H'] / 2,
          'nad_c': element_balance['H'] / 2}
     )
-
-    met = model.metabolites.biomass
-    model.add_boundary(
-        met, type="demand"
-    )
+    biomass.formula=""
 
     return model
+
 
 
 def find_blocked_mets(model):
