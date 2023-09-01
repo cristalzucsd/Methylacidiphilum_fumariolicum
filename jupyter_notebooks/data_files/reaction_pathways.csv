@@ -1,0 +1,628 @@
+rxn_id	metacyc.id	Level_2	Level_1	Level_0
+ABTA	GABATRANSAM-RXN	GABA shunt II // nicotine degradation I (pyridine pathway)	Acid Resistance	Acid Resistance
+GLUDC	GLUTDECARBOX-RXN	GABA shunt II // L-glutamate degradation IX (via 4-aminobutanoate)	Acid Resistance	Acid Resistance
+SSALx	SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	GABA shunt II	Acid Resistance	Acid Resistance
+GCALDD	GLYCOLALD-DEHYDROG-RXN	ethylene glycol degradation	Alcohol Degradation	Alcohol Degradation
+AGDI_1	AGMATINE-DEIMINASE-RXN	putrescine biosynthesis II	Amide, Amidine, Amine, and Polyamine Biosynthesis	Amide, Amidine, Amine, and Polyamine Biosynthesis
+ARGDC	ARGDECARBOX-RXN	spermidine biosynthesis III	Amide, Amidine, Amine, and Polyamine Biosynthesis	Amide, Amidine, Amine, and Polyamine Biosynthesis
+CMPA_1	N-CARBAMOYLPUTRESCINE-AMIDASE-RXN	putrescine biosynthesis II	Amide, Amidine, Amine, and Polyamine Biosynthesis	Amide, Amidine, Amine, and Polyamine Biosynthesis
+GGGABADr	RXN0-3922	putrescine degradation II	Amide, Amidine, Amine, and Polyamine Degradation	Degradation
+GGGABAH	RXN0-3942	putrescine degradation II	Amide, Amidine, Amine, and Polyamine Degradation	Degradation
+GGPTRCO	RXN0-3921	putrescine degradation II	Amide, Amidine, Amine, and Polyamine Degradation	Degradation
+GGPTRCS	RXN0-3901	putrescine degradation II	Amide, Amidine, Amine, and Polyamine Degradation	Degradation
+ACGK	ACETYLGLUTKIN-RXN	L-arginine biosynthesis III (via <i>N</i>-acetyl-L-citrulline) // L-arginine biosynthesis II (acetyl cycle) // L-ornithine biosynthesis I	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ACGS	N-ACETYLTRANSFER-RXN	L-arginine biosynthesis III (via <i>N</i>-acetyl-L-citrulline) // L-ornithine biosynthesis I	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ACHBS	ACETOOHBUTSYN-RXN	L-isoleucine biosynthesis I (from threonine) // L-isoleucine biosynthesis II // L-isoleucine biosynthesis III // L-isoleucine biosynthesis IV	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ACOTA	ACETYLORNTRANSAM-RXN	L-arginine biosynthesis III (via <i>N</i>-acetyl-L-citrulline) // L-ornithine biosynthesis I	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ACSERL	RXN-12726	seleno-amino acid biosynthesis (plants)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+AGPR	N-ACETYLGLUTPREDUCT-RXN	L-arginine biosynthesis III (via <i>N</i>-acetyl-L-citrulline) // L-ornithine biosynthesis I	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ANPRT	PRTRANS-RXN	L-tryptophan biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ANS	ANTHRANSYN-RXN	L-tryptophan biosynthesis // 4-hydroxy-2(1<i>H</i>)-quinolone biosynthesis // acridone alkaloid biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ARGSL	ARGSUCCINLYA-RXN	L-arginine biosynthesis IV (archaea) // L-arginine biosynthesis I (via L-ornithine) // L-arginine biosynthesis III (via <i>N</i>-acetyl-L-citrulline) // L-arginine biosynthesis II (acetyl cycle) // urea cycle // nitric oxide biosynthesis II (mammals)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ARGSS	ARGSUCCINSYN-RXN	L-arginine biosynthesis IV (archaea) // nitric oxide biosynthesis II (mammals) // urea cycle	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ASNS1	6.3.5.6-RXN	L-asparagine biosynthesis III (tRNA-dependent)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ASP1DC	ASPDECARBOX-RXN	&beta;-alanine biosynthesis III	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ASPTRS	RXN490-3616	L-asparagine biosynthesis III (tRNA-dependent)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ATPPRT	ATPPHOSPHORIBOSYLTRANS-RXN	L-histidine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+BHMT	2.1.1.5-RXN	glycine betaine degradation I // glycine betaine degradation II (mammalian) // L-methionine salvage from L-homocysteine	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+CHORM	CHORISMATEMUT-RXN	L-phenylalanine biosynthesis II // L-tyrosine biosynthesis III // L-tyrosine biosynthesis II // L-tyrosine biosynthesis I // bacilysin biosynthesis // L-phenylalanine biosynthesis I // salinosporamide A biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+CITCIb	RXN-7744	L-isoleucine biosynthesis II	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+CITMS	RXN-7743	L-isoleucine biosynthesis II	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+CYSS	ACSERLY-RXN	L-cysteine biosynthesis I	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+CYSTL	CYSTATHIONINE-BETA-LYASE-RXN	L-methionine biosynthesis II // L-methionine biosynthesis I // homocysteine and cysteine interconversion	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+DAPAT_h	RXN-7737	L-lysine biosynthesis VI	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+DAPDC	DIAMINOPIMDECARB-RXN	L-lysine biosynthesis I // L-lysine biosynthesis II // L-lysine biosynthesis III // L-lysine biosynthesis VI	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+DAPE	DIAMINOPIMEPIM-RXN	L-lysine biosynthesis I // L-lysine biosynthesis VI // L-lysine biosynthesis II	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+DHAD1	DIHYDROXYISOVALDEHYDRAT-RXN	L-valine biosynthesis // pyruvate fermentation to isobutanol (engineered)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+DHAD2	DIHYDROXYMETVALDEHYDRAT-RXN	L-isoleucine biosynthesis I (from threonine) // L-isoleucine biosynthesis II // L-isoleucine biosynthesis IV // L-isoleucine biosynthesis III	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ERTHMMOR	RXN-7745	L-isoleucine biosynthesis II	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+G5SD	GLUTSEMIALDEHYDROG-RXN	L-ornithine biosynthesis II // L-proline biosynthesis I (from L-glutamate)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+GLU5K	GLUTKIN-RXN	L-ornithine biosynthesis II // L-proline biosynthesis I (from L-glutamate)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+GLUDy	GLUTDEHYD-RXN	L-glutamate biosynthesis III	Nitrogen	Nitrogen
+GLUTRS	GLURS-RXN	tRNA charging	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+GLYCL	GCVMULTI-RXN	glycine biosynthesis II // glycine cleavage // photorespiration I // photorespiration III // photorespiration II // reductive glycine pathway of autotrophic CO<sub>2</sub> fixation // folate transformations I // folate transformations III (<i>E. coli</i>) // folate transformations II (plants)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+H4THDPR	RXN-14014	L-lysine biosynthesis I // L-lysine biosynthesis II // L-lysine biosynthesis III // L-lysine biosynthesis VI	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+H4THDPRx	RXN-14014	L-lysine biosynthesis I // L-lysine biosynthesis II // L-lysine biosynthesis III // L-lysine biosynthesis VI	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+HCYSMT2	MMUM-RXN	L-methionine salvage from L-homocysteine // S-methyl-L-methionine cycle	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+HISTD	RXN-8001	L-histidine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+HISTP	HISTIDPHOS-RXN	L-histidine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+HSDH	HOMOSERDEHYDROG-RXN	L-homoserine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+HSDy	HOMOSERDEHYDROG-RXN	L-homoserine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+HSK	HOMOSERKIN-RXN	L-threonine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+HSST	HOMSUCTRAN-RXN	L-methionine biosynthesis I	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+HSTPT	HISTAMINOTRANS-RXN	L-histidine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+IG3PS	GLUTAMIDOTRANS-RXN	L-histidine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+IGPDH	IMIDPHOSDEHYD-RXN	L-histidine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+IGPS	IGPSYN-RXN	L-tryptophan biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+IPPS	2-ISOPROPYLMALATESYN-RXN	L-leucine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+KARA1	ACETOLACTREDUCTOISOM-RXN	L-valine biosynthesis // pyruvate fermentation to isobutanol (engineered)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+KARA2x	ACETOOHBUTREDUCTOISOM-RXN	L-isoleucine biosynthesis I (from threonine) // L-isoleucine biosynthesis III	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+KARI_23dhmb	ACETOOHBUTREDUCTOISOM-RXN	L-isoleucine biosynthesis I (from threonine) // L-isoleucine biosynthesis III	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+METS	HOMOCYSMETB12-RXN	folate transformations I // L-methionine biosynthesis I // L-methionine biosynthesis III // folate transformations III (<i>E. coli</i>) // folate transformations II (plants) // L-methionine salvage from L-homocysteine	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+MHPGLUT	HOMOCYSMET-RXN	L-methionine biosynthesis I // <i>S</i>-adenosyl-L-methionine salvage I // <i>S</i>-adenosyl-L-methionine salvage II // L-methionine biosynthesis II // L-methionine biosynthesis III	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+ORNTAC	GLUTAMATE-N-ACETYLTRANSFERASE-RXN	L-arginine biosynthesis II (acetyl cycle)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+PGCD	PGLYCDEHYDROG-RXN	L-serine biosynthesis I	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+PPNDH	PREPHENATEDEHYDRAT-RXN	L-phenylalanine biosynthesis III (cytosolic, plants)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+PRAI	PRAISOM-RXN	L-tryptophan biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+PRAMPC	HISTCYCLOHYD-RXN	L-histidine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+PRATPP	HISTPRATPHYD-RXN	L-histidine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+PRMICI	PRIBFAICARPISOM-RXN	L-histidine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+PSERT	PSERTRANSAM-RXN	L-serine biosynthesis I	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+PSP_L	RXN0-5114	L-serine biosynthesis I	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+SERAT	SERINE-O-ACETTRAN-RXN	L-cysteine biosynthesis VI (reverse transsulfuration) // L-cysteine biosynthesis VII (from <i>S</i>-sulfo-L-cysteine) // seleno-amino acid biosynthesis (plants)	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+SHSL1	O-SUCCHOMOSERLYASE-RXN	L-methionine biosynthesis I	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+THRS	THRESYN-RXN	L-threonine biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+TRPS1	TRYPSYN-RXN	L-tryptophan biosynthesis	Amino Acid Biosynthesis	Amino Acid Biosynthesis
+AHCi	ADENOSYLHOMOCYSTEINASE-RXN	<i>S</i>-adenosyl-L-methionine salvage II // L-methionine degradation I (to L-homocysteine)	Amino Acid Degradation	Degradation
+ALAD_L	ALANINE-DEHYDROGENASE-RXN	L-alanine degradation IV	Amino Acid Degradation	Degradation
+ALAR	ALARACECAT-RXN	anaerobic energy metabolism (invertebrates, cytosol) // cyclosporin A biosynthesis // ansatrienin biosynthesis // alanine racemization // L-alanine degradation I	Amino Acid Degradation	Degradation
+AMID	GUANIDINOBUTANAMIDE-NH3-RXN	L-arginine degradation X (arginine monooxygenase pathway)	Amino Acid Degradation	Degradation
+ASPTA	ASPAMINOTRANS-RXN	anaerobic energy metabolism (invertebrates, cytosol) // C4 photosynthetic carbon assimilation cycle, NAD-ME type // C4 photosynthetic carbon assimilation cycle, PEPCK type // L-aspartate biosynthesis // L-aspartate degradation I // L-glutamate degradation II // malate/L-aspartate shuttle pathway // TCA cycle VIII (Chlamydia)	Amino Acid Degradation	Degradation
+D78FOR	RXN-13909	L-phenylalanine degradation V	Amino Acid Degradation	Degradation
+G5SADs	SPONTPRO-RXN	L-arginine degradation XIII (reductive Stickland reaction) // L-citrulline biosynthesis // L-proline biosynthesis I (from L-glutamate) // L-proline biosynthesis III (from L-ornithine) // L-proline degradation I	Amino Acid Degradation	Degradation
+GLNS	GLUTAMINESYN-RXN	L-aspartate degradation III (anaerobic) // L-glutamine biosynthesis I	Nitrogen	Nitrogen
+GLUDxi	GLUTAMATE-DEHYDROGENASE-RXN	L-glutamate degradation V (via hydroxyglutarate) // L-glutamate degradation XI (reductive Stickland reaction) // methylaspartate cycle	Amino Acid Degradation	Degradation
+ILETA	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	L-isoleucine degradation III (oxidative Stickland reaction)	Amino Acid Degradation	Degradation
+LEUTAi	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	L-leucine degradation IV (reductive Stickland reaction) // L-leucine degradation V (oxidative Stickland reaction) // odd <i>iso</i>-branched-chain fatty acid biosynthesis	Amino Acid Degradation	Degradation
+MCPST	MERCAPYSTRANS-RXN	L-cysteine degradation III	Amino Acid Degradation	Degradation
+OCBT	ORNCARBAMTRANSFER-RXN	L-arginine degradation XIV (oxidative Stickland reaction) // L-citrulline biosynthesis // L-citrulline degradation // urea cycle	Amino Acid Degradation	Degradation
+P5CR	PYRROLINECARBREDUCT-RXN	L-arginine degradation XIII (reductive Stickland reaction) // L-proline biosynthesis I (from L-glutamate) // L-proline biosynthesis III (from L-ornithine)	Amino Acid Degradation	Degradation
+P5CRx	PYRROLINECARBREDUCT-RXN	L-arginine degradation XIII (reductive Stickland reaction) // L-proline biosynthesis I (from L-glutamate) // L-proline biosynthesis III (from L-ornithine)	Amino Acid Degradation	Degradation
+PHEH	RXN-13907	L-phenylalanine degradation V	Amino Acid Degradation	Degradation
+PHETA1	RXN-10814	L-phenylalanine degradation VI (reductive Stickland reaction)	Amino Acid Degradation	Degradation
+PT4ACAMDASE	RXN-13908	L-phenylalanine degradation V	Amino Acid Degradation	Degradation
+PUTA3	RXN-14116	ethene biosynthesis II (microbes) // L-arginine degradation I (arginase pathway) // L-proline degradation I	Amino Acid Degradation	Degradation
+VALTA	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	L-valine degradation III (oxidative Stickland reaction)	Amino Acid Degradation	Degradation
+ADCL	ADCLY-RXN	4-aminobenzoate biosynthesis II	Aromatic Compound Biosynthesis	Aromatic Compound Biosynthesis
+BDG2HCGHD	RXN-8036	coumarin biosynthesis (via 2-coumarate)	Aromatic Compound Biosynthesis	Aromatic Compound Biosynthesis
+CHRPL	CHORPYRLY-RXN	4-hydroxybenzoate biosynthesis II (bacteria) // polybrominated dihydroxylated diphenyl ethers biosynthesis // spongiadioxin C biosynthesis // polybrominated phenols biosynthesis // phenolphthiocerol biosynthesis // p-HBAD biosynthesis // tetrahydromethanopterin biosynthesis // ubiquinol-8 biosynthesis (late decarboxylation)	Aromatic Compound Biosynthesis	Aromatic Compound Biosynthesis
+DHQTi	3-DEHYDROQUINATE-DEHYDRATASE-RXN	gallate biosynthesis // chorismate biosynthesis from 3-dehydroquinate // quinate degradation II // quinate degradation I	Aromatic Compound Biosynthesis	Aromatic Compound Biosynthesis
+H4THDPS	DIHYDRODIPICSYN-RXN	dipicolinate biosynthesis // L-lysine biosynthesis I // L-lysine biosynthesis II // L-lysine biosynthesis III // L-lysine biosynthesis VI	Aromatic Compound Biosynthesis	Aromatic Compound Biosynthesis
+MCITD	R-2-METHYLMALATE-DEHYDRATASE-RXN	2,5-xylenol and 3,5-xylenol degradation // L-isoleucine biosynthesis II	Aromatic Compound Degradation	Degradation
+DHAK	GLYCERONE-KINASE-RXN	formaldehyde assimilation III (dihydroxyacetone cycle) // glycerol degradation II	C1 Metabolism	C1 Metabolism
+FALTHFL	RXN-2881	formaldehyde assimilation I (serine pathway) // formaldehyde oxidation VII (THF pathway)	C1 Metabolism	C1 Metabolism
+FTHFLi	FORMATETHFLIG-RXN	folate polyglutamylation // reductive glycine pathway of autotrophic CO<sub>2</sub> fixation // folate transformations I // reductive acetyl coenzyme A pathway I (homoacetogenic bacteria) // formate assimilation into 5,10-methylenetetrahydrofolate // folate transformations II (plants)	C1 Metabolism	C1 Metabolism
+H2CO3D	RXN0-5224	gluconeogenesis II (<i>Methanobacterium thermoautotrophicum</i>) // glyoxylate assimilation	C1 Metabolism	C1 Metabolism
+MEOHDHpp	RXN-2861	methanol oxidation to formaldehyde I	C1 Metabolism	C1 Metabolism
+OOR3r	2-OXOGLUTARATE-SYNTHASE-RXN	reductive TCA cycle I // reductive TCA cycle II // TCA cycle V (2-oxoglutarate synthase) // TCA cycle VI (Helicobacter) // TCA cycle VII (acetate-producers)	C1 Metabolism	C1 Metabolism
+PGLYCP	GPH-RXN	photorespiration I // photorespiration III // photorespiration II	C1 Metabolism	C1 Metabolism
+PMMOipp	RXN-12219	methane oxidation to methanol II	C1 Metabolism	C1 Metabolism
+RBCh	RXN-961	photorespiration I // photorespiration II // photorespiration III	C1 Metabolism	C1 Metabolism
+ACTNMOq8	RXN-8630	acetone degradation I (to methylglyoxal) // acetone degradation III (to propane-1,2-diol)	C3 Metabolism	C3 Metabolism
+ALCD3ir	RXN-13198	(<i>S</i>)-propane-1,2-diol degradation	C3 Metabolism	C3 Metabolism
+C3H8OXq8	RXN-17568	propane degradation II	C3 Metabolism	C3 Metabolism
+GLYOX	GLYOXII-RXN	methylglyoxal degradation VIII	C3 Metabolism	C3 Metabolism
+LDH_D	DLACTDEHYDROGNAD-RXN	mixed acid fermentation // pyruvate fermentation to (<i>R</i>)-lactate // superpathway of fermentation (<i>Chlamydomonas reinhardtii</i>) // superpathway of glucose and xylose degradation // vancomycin resistance I	C3 Metabolism	C3 Metabolism
+LGTHL	GLYOXI-RXN	methylglyoxal degradation VIII	C3 Metabolism	C3 Metabolism
+GAPDy	1.2.1.13-RXN	CO<sub>2</sub> Fixation	CO<sub>2</sub> Fixation	CO<sub>2</sub> Fixation
+PRUK	PHOSPHORIBULOKINASE-RXN	CO<sub>2</sub> Fixation // Rubisco shunt	CO<sub>2</sub> Fixation	CO<sub>2</sub> Fixation
+RBPC	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	Nucleotides/sides Degradation (archaea) // Rubisco shunt	CO<sub>2</sub> Fixation	CO<sub>2</sub> Fixation
+RPE	RIBULP3EPIM-RXN	pentose phosphate pathway (non-oxidative branch) II // Bifidobacterium shunt // heterolactic fermentation // CO<sub>2</sub> Fixation // Rubisco shunt // pentose phosphate pathway (non-oxidative branch) I // formaldehyde assimilation III (dihydroxyacetone cycle) // formaldehyde assimilation II (assimilatory RuMP Cycle) // pentose phosphate pathway (partial)	CO<sub>2</sub> Fixation	CO<sub>2</sub> Fixation
+RPI	RIB5PISOM-RXN	pentose phosphate pathway (non-oxidative branch) II // Bifidobacterium shunt // CO<sub>2</sub> Fixation // Rubisco shunt // pentose phosphate pathway (non-oxidative branch) I // formaldehyde assimilation III (dihydroxyacetone cycle) // formaldehyde assimilation II (assimilatory RuMP Cycle)	PPP	PPP
+SBP	SEDOHEPTULOSE-BISPHOSPHATASE-RXN	CO<sub>2</sub> Fixation	CO<sub>2</sub> Fixation	CO<sub>2</sub> Fixation
+TKT1	1TRANSKETO-RXN	pentose phosphate pathway (non-oxidative branch) II // Bifidobacterium shunt // CO<sub>2</sub> Fixation // Rubisco shunt // pentose phosphate pathway (non-oxidative branch) I // formaldehyde assimilation III (dihydroxyacetone cycle) // formaldehyde assimilation II (assimilatory RuMP Cycle) // pentose phosphate pathway (partial)	PPP	PPP
+TKT2	2TRANSKETO-RXN	pentose phosphate pathway (non-oxidative branch) II // superpathway of glucose and xylose degradation // CO<sub>2</sub> Fixation // Rubisco shunt // pentose phosphate pathway (non-oxidative branch) I // formaldehyde assimilation III (dihydroxyacetone cycle) // formaldehyde assimilation II (assimilatory RuMP Cycle) // pentose phosphate pathway (partial)	PPP	PPP
+A5PISO	DARAB5PISOM-RXN	CMP-8-amino-3,8-dideoxy-D-<I>manno</I>-octulosonate biosynthesis // CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+ACGAM6PS	GLUCOSAMINEPNACETYLTRANS-RXN	UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis II // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+ACGAMPM	PHOSACETYLGLUCOSAMINEMUT-RXN	UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis II // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II // chitin derivatives degradation	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+AFC	RXN-16804	CMP-8-amino-3,8-dideoxy-D-<I>manno</I>-octulosonate biosynthesis // CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+AGMH	5.1.3.20-RXN	ADP-L-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose biosynthesis	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+GF6PTA	L-GLN-FRUCT-6-P-AMINOTRANS-RXN	UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis III // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+GLCS1	GLYCOGENSYN-RXN	starch biosynthesis // glycogen biosynthesis I (from ADP-D-Glucose)	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+GMAND	GDPMANDEHYDRA-RXN	GDP-<i>N</i>-formyl-&alpha;-D-perosamine biosynthesis // GDP-<i>N</i>-acetyl-&alpha;-D-perosamine biosynthesis // GDP-mycosamine biosynthesis // GDP-D-rhamnose biosynthesis // GDP-L-fucose biosynthesis I (from GDP-D-mannose) // GDP-L-colitose biosynthesis // GDP-D-perosamine biosynthesis // GDP-6-deoxy-D-talose biosynthesis	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+KDOCT2	CPM-KDOSYNTH-RXN	CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+KDOPP	KDO-8PPHOSPHAT-RXN	CMP-8-amino-3,8-dideoxy-D-<I>manno</I>-octulosonate biosynthesis // CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+KDOPS	KDO-8PSYNTH-RXN	CMP-8-amino-3,8-dideoxy-D-<I>manno</I>-octulosonate biosynthesis // CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+MAN1PT	2.7.7.13-RXN	GDP-mannose biosynthesis	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+PGCM	PHOSPHOGLUCMUT-RXN	dTDP-&beta;-L-rhamnose biosynthesis // chitin biosynthesis // GDP-&alpha;-D-glucose biosynthesis // CDP-6-deoxy-D-gulose biosynthesis // glycogen degradation I // glycogen degradation II // glycogen biosynthesis III (from &alpha;-maltose 1-phosphate) // glucosylglycerol biosynthesis // starch biosynthesis // D-galactose degradation I (Leloir pathway) // glucose and glucose-1-phosphate degradation // sucrose degradation IV (sucrose phosphorylase) // streptomycin biosynthesis // sucrose biosynthesis II // sucrose degradation II (sucrose synthase) // UDP-&alpha;-D-glucose biosynthesis // starch degradation III // starch degradation V // trehalose degradation V // glycogen biosynthesis I (from ADP-D-Glucose)	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+PMANM	PHOSMANMUT-RXN	GDP-mannose biosynthesis // &beta;-(1,4)-mannan degradation // &beta;-1,4-D-mannosyl-<i>N</i>-acetyl-D-glucosamine degradation	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+PRPPS	PRPPSYN-RXN	PRPP biosynthesis	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+S7PI	RXN0-4301	ADP-L-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose biosynthesis // GDP-D-<i>glycero</i>-&alpha;-D-<i>manno</i>-heptose biosynthesis	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+SPP	SUCROSE-PHOSPHATASE-RXN	sucrose biosynthesis III // sucrose biosynthesis I (from photosynthesis) // sucrose biosynthesis II	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+SPS	SUCROSE-PHOSPHATE-SYNTHASE-RXN	sucrose biosynthesis III	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+TDPGDH	DTDPGLUCDEHYDRAT-RXN	dTDP-sibirosamine biosynthesis // dTDP-&beta;-L-rhamnose biosynthesis // dTDP-<i>N</i>-acetylviosamine biosynthesis // dTDP-&beta;-D-fucofuranose biosynthesis // dTDP-3-acetamido-3,6-dideoxy-&alpha;-D-glucose biosynthesis // dTDP-&beta;-L-digitoxose biosynthesis // dTDP-4-<i>O</i>-demethyl-&beta;-L-noviose biosynthesis // dTDP-&alpha;-D-olivose, dTDP-&alpha;-D-oliose and dTDP-&alpha;-D-mycarose biosynthesis // dTDP-L-daunosamine biosynthesis // dTDP-6-deoxy-&alpha;-D-allose biosynthesis // dTDP-D-desosamine biosynthesis // dTDP-&alpha;-D-mycaminose biosynthesis // dTDP-&beta;-L-mycarose biosynthesis // dTDP-&beta;-L-olivose biosynthesis // dTDP-&alpha;-D-ravidosamine and dTDP-4-acetyl-&alpha;-D-ravidosamine biosynthesis // dTDP-&alpha;-D-forosamine biosynthesis // dTDP-&beta;-L-megosamine biosynthesis // dTDP-&beta;-L-4-<i>epi</i>-vancosamine biosynthesis // dTDP-<i>N</i>-acetylthomosamine biosynthesis // dTDP-3-acetamido-&alpha;-D-fucose biosynthesis	Carbohydrate Biosynthesis	Carbohydrate Biosynthesis
+AMALT1	AMYLOMALT-RXN	glycogen degradation I	Carbohydrate Degradation	Degradation
+DHAPT	2.7.1.121-RXN	glycerol degradation V	Carbohydrate Degradation	Degradation
+DRPA	DEOXYRIBOSE-P-ALD-RXN	2-deoxy-D-ribose degradation I	Carbohydrate Degradation	Degradation
+GLYK	GLYCEROL-KIN-RXN	glycerol degradation I	Carbohydrate Degradation	Degradation
+MAN6PI	MANNPISOM-RXN	D-mannose degradation I // D-mannose degradation II // 1,5-anhydrofructose degradation // GDP-mannose biosynthesis // &beta;-(1,4)-mannan degradation // mannitol biosynthesis // &beta;-1,4-D-mannosyl-<i>N</i>-acetyl-D-glucosamine degradation // mannitol degradation II	Carbohydrate Degradation	Degradation
+MLTG1	RXN0-5183	glycogen degradation I	Carbohydrate Degradation	Degradation
+PPM2	D-PPENTOMUT-RXN	2-deoxy-&alpha;-D-ribose 1-phosphate degradation	Carbohydrate Degradation	Degradation
+TGBPA	TAGAALDOL-RXN	lactose degradation I // D-tagatose degradation // galactitol degradation // <i>N</i>-acetyl-D-galactosamine degradation // D-galactosamine and <i>N</i>-acetyl-D-galactosamine degradation	Carbohydrate Degradation	Degradation
+CHORS	CHORISMATE-SYNTHASE-RXN	chorismate biosynthesis from 3-dehydroquinate	Carboxylic Acid Biosynthesis	Carboxylic Acid Biosynthesis
+DDPA	DAHPSYN-RXN	3-dehydroquinate biosynthesis I	Carboxylic Acid Biosynthesis	Carboxylic Acid Biosynthesis
+DHQS	3-DEHYDROQUINATE-SYNTHASE-RXN	3-dehydroquinate biosynthesis I	Carboxylic Acid Biosynthesis	Carboxylic Acid Biosynthesis
+PSCVT	2.5.1.19-RXN	chorismate biosynthesis from 3-dehydroquinate	Carboxylic Acid Biosynthesis	Carboxylic Acid Biosynthesis
+SHK3Dr	SHIKIMATE-5-DEHYDROGENASE-RXN	chorismate biosynthesis from 3-dehydroquinate	Carboxylic Acid Biosynthesis	Carboxylic Acid Biosynthesis
+SHKK	SHIKIMATE-KINASE-RXN	chorismate biosynthesis from 3-dehydroquinate	Carboxylic Acid Biosynthesis	Carboxylic Acid Biosynthesis
+MALS	MALSYN-RXN	glycolate and glyoxylate degradation II // glyoxylate cycle // L-arabinose degradation IV	Carboxylic Acid Degradation	Degradation
+SHGO	RXN0-5364	glutarate degradation	Carboxylic Acid Degradation	Degradation
+ALAALAr	DALADALALIG-RXN	UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis III (<i>meso</i>-diaminopimelate containing)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+FACOAE120	RXN-9627	sporopollenin precursors biosynthesis	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+FACOAE160	PALMITOYL-COA-HYDROLASE-RXN	suberin monomers biosynthesis	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+FACOAE181	RXN-9666	suberin monomers biosynthesis	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+GALUi	GLUC1PURIDYLTRANS-RXN	type I lipoteichoic acid biosynthesis (<i>S. aureus</i>) // UDP-&alpha;-D-glucose biosynthesis	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+GLUR	GLUTRACE-RXN	UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+HEPT2	RXN0-5061	lipid A-core biosynthesis (<i>Salmonella</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+LPADSS	LIPIDADISACCHARIDESYNTH-RXN	lipid IV<sub>A</sub> biosynthesis (<i>E. coli</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+MOAT	KDOTRANS-RXN	Kdo transfer to lipid IV<sub>A</sub> (<i>E. coli</i>) // Kdo transfer to lipid IV<sub>A</sub> (<i>Haemophilus</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+MOAT2	KDOTRANS2-RXN	Kdo transfer to lipid IV<sub>A</sub> (<i>E. coli</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+PAPPT4	PHOSNACMURPENTATRANS-RXN	peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+PGPP180	PGPPHOSPHA-RXN	type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+PGPP160	PGPPHOSPHA-RXN	type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+PGPP140	PGPPHOSPHA-RXN	type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+PGSA180	PHOSPHAGLYPSYN-RXN	type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+PGSA160	PHOSPHAGLYPSYN-RXN	type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+PGSA140	PHOSPHAGLYPSYN-RXN	type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+TDSK	TETRAACYLDISACC4KIN-RXN	lipid IV<sub>A</sub> biosynthesis (<i>E. coli</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+U23GAAT	UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN	lipid IV<sub>A</sub> biosynthesis (<i>E. coli</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+UAAGMDAt2	TRANS-RXN0-286	peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+UAGAAT	UDPNACETYLGLUCOSAMACYLTRANS-RXN	lipid IV<sub>A</sub> biosynthesis (<i>E. coli</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+UAGPT3	NACGLCTRANS-RXN	peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+UAMAGS	UDP-NACMURALA-GLU-LIG-RXN	UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+UAMAS	UDP-NACMUR-ALA-LIG-RXN	UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis III (<i>meso</i>-diaminopimelate containing)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+UGLDDS1	6.3.2.10-RXN	UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+UGMDDS	UDP-NACMURALGLDAPAALIG-RXN	UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis III (<i>meso</i>-diaminopimelate containing)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+UHGADA	UDPACYLGLCNACDEACETYL-RXN	lipid IV<sub>A</sub> biosynthesis (<i>E. coli</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+UM3PL	UDP-NACMURALGLDAPLIG-RXN	UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis III (<i>meso</i>-diaminopimelate containing)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+USHD	LIPIDXSYNTHESIS-RXN	lipid IV<sub>A</sub> biosynthesis (<i>E. coli</i>)	Cell Structure Biosynthesis	Cell Structure Biosynthesis
+AFTS	RXN-15264	1,4-dihydroxy-6-naphthoate biosynthesis II	Cofactors Biosynthesis	Cofactors Biosynthesis
+AFUTD	RXN-14910	1,4-dihydroxy-6-naphthoate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+AMAOTr	DAPASYN-RXN	biotin biosynthesis from 8-amino-7-oxononanoate I	Cofactors Biosynthesis	Cofactors Biosynthesis
+AMMQLT8	ADOMET-DMK-METHYLTRANSFER-RXN	menaquinol-8 biosynthesis	Cofactors Biosynthesis	Cofactors Biosynthesis
+AMPMS2	PYRIMSYN1-RXN	4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+ASPO5	RXN-9772	NAD <i>de novo</i> biosynthesis IV (anaerobic)	Cofactors Biosynthesis	Cofactors Biosynthesis
+BTS5	2.8.1.6-RXN	biotin biosynthesis from 8-amino-7-oxononanoate III // biotin biosynthesis from 8-amino-7-oxononanoate I // biotin biosynthesis from 8-amino-7-oxononanoate II	Cofactors Biosynthesis	Cofactors Biosynthesis
+CHORD	RXN-12345	1,4-dihydroxy-6-naphthoate biosynthesis II // 1,4-dihydroxy-6-naphthoate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+CYSDES1	RXN-9787	thiazole component of thiamine diphosphate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+DB4PS	DIOHBUTANONEPSYN-RXN	flavin biosynthesis III (fungi)	Cofactors Biosynthesis	Cofactors Biosynthesis
+DBTS	DETHIOBIOTIN-SYN-RXN	biotin biosynthesis from 8-amino-7-oxononanoate II // biotin biosynthesis from 8-amino-7-oxononanoate I	Cofactors Biosynthesis	Cofactors Biosynthesis
+DHFR	DIHYDROFOLATEREDUCT-RXN	tetrahydrofolate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+DHFS	DIHYDROFOLATESYNTH-RXN	tetrahydrofolate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+DHNAS1	RXN-10622	1,4-dihydroxy-6-naphthoate biosynthesis II // 1,4-dihydroxy-6-naphthoate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+DHNPA	H2NEOPTERINALDOL-RXN	tetrahydromethanopterin biosynthesis // 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia) // 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I // 6-hydroxymethyl-dihydropterin diphosphate biosynthesis II (<i>Methanocaldococcus</i>)	Cofactors Biosynthesis	Cofactors Biosynthesis
+DHPS2	H2PTEROATESYNTH-RXN	tetrahydrofolate biosynthesis II	Cofactors Biosynthesis	Cofactors Biosynthesis
+DHXFUTC	RXN-10620	1,4-dihydroxy-6-naphthoate biosynthesis II	Cofactors Biosynthesis	Cofactors Biosynthesis
+DMQMT	DHHB-METHYLTRANSFER-RXN	ubiquinol-8 biosynthesis (early decarboxylation) // ubiquinol-8 biosynthesis (late decarboxylation)	Cofactors Biosynthesis	Cofactors Biosynthesis
+DPCOAK	DEPHOSPHOCOAKIN-RXN	coenzyme A biosynthesis II (eukaryotic)	Cofactors Biosynthesis	Cofactors Biosynthesis
+DPR	2-DEHYDROPANTOATE-REDUCT-RXN	phosphopantothenate biosynthesis I // phosphopantothenate biosynthesis III (archaea)	Cofactors Biosynthesis	Cofactors Biosynthesis
+DXPS	DXS-RXN	thiazole component of thiamine diphosphate biosynthesis I // thiazole component of thiamine diphosphate biosynthesis II	Cofactors Biosynthesis	Cofactors Biosynthesis
+DXYTST	THIAZOLSYN2-RXN	thiazole component of thiamine diphosphate biosynthesis I // thiazole component of thiamine diphosphate biosynthesis II	Cofactors Biosynthesis	Cofactors Biosynthesis
+E4PD	ERYTH4PDEHYDROG-RXN	pyridoxal 5'-phosphate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+FMNAT	FADSYN-RXN	flavin salvage	Cofactors Biosynthesis	Cofactors Biosynthesis
+FUTH	RXN-9780	1,4-dihydroxy-6-naphthoate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+GARFT	GART-RXN	tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	Cofactors Biosynthesis	Cofactors Biosynthesis
+HBZHPT	RXN-9003	ubiquinol-6 biosynthesis (late decarboxylation)	Cofactors Biosynthesis	Cofactors Biosynthesis
+HBZOPT	4OHBENZOATE-OCTAPRENYLTRANSFER-RXN	ubiquinol-8 biosynthesis (early decarboxylation) // ubiquinol-8 biosynthesis (late decarboxylation)	Cofactors Biosynthesis	Cofactors Biosynthesis
+HMPK1	OHMETPYRKIN-RXN	thiamine diphosphate formation from pyrithiamine and oxythiamine (yeast) // thiamine diphosphate salvage IV (yeast)	Cofactors Biosynthesis	Cofactors Biosynthesis
+HTHRPDH	RXN-13179	pyridoxal 5'-phosphate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+METAT	S-ADENMETSYN-RXN	<i>S</i>-adenosyl-L-methionine salvage I // <i>S</i>-adenosyl-L-methionine salvage II // 2'-deoxymugineic acid phytosiderophore biosynthesis // S-adenosyl-L-methionine biosynthesis // ethene biosynthesis I (plants) // L-methionine degradation I (to L-homocysteine)	Cofactors Biosynthesis	Cofactors Biosynthesis
+MOBDabc	ABC-19-RXN	molybdenum cofactor biosynthesis	Cofactors Biosynthesis	Cofactors Biosynthesis
+MOHMT	3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN	phosphopantothenate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+MPTAT	RXN-8344	molybdenum cofactor biosynthesis	Cofactors Biosynthesis	Cofactors Biosynthesis
+MTHFR3	1.5.1.20-RXN	folate transformations I	Cofactors Biosynthesis	Cofactors Biosynthesis
+NADHK	NADH-KINASE-RXN	mitochondrial NADPH production (yeast) // NAD(P)/NADPH interconversion	Cofactors Biosynthesis	Cofactors Biosynthesis
+NADK	NAD-KIN-RXN	NADP biosynthesis	Cofactors Biosynthesis	Cofactors Biosynthesis
+NADS1	NAD-SYNTH-NH3-RXN	NAD <i>de novo</i> biosynthesis III // NAD <i>de novo</i> biosynthesis IV (anaerobic) // NAD salvage pathway I (PNC VI cycle) // NAD salvage pathway II (PNC IV cycle)	Cofactors Biosynthesis	Cofactors Biosynthesis
+NADS2	NAD-SYNTH-GLN-RXN	NAD <i>de novo</i> biosynthesis III // NAD <i>de novo</i> biosynthesis IV (anaerobic) // NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde // NAD salvage (plants) // NAD salvage pathway I (PNC VI cycle) // NAD salvage pathway II (PNC IV cycle) // NAD salvage pathway V (PNC V cycle)	Cofactors Biosynthesis	Cofactors Biosynthesis
+NAPRT	NICOTINATEPRIBOSYLTRANS-RXN	NAD salvage (plants) // NAD salvage pathway I (PNC VI cycle) // NAD salvage pathway V (PNC V cycle)	Cofactors Biosynthesis	Cofactors Biosynthesis
+NNAM	NICOTINAMID-RXN	NAD salvage (plants) // NAD salvage pathway I (PNC VI cycle) // NAD salvage pathway V (PNC V cycle)	Cofactors Biosynthesis	Cofactors Biosynthesis
+NNATr	NICONUCADENYLYLTRAN-RXN	NAD <i>de novo</i> biosynthesis III // NAD <i>de novo</i> biosynthesis IV (anaerobic) // NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde // NAD salvage (plants) // NAD salvage pathway I (PNC VI cycle) // NAD salvage pathway II (PNC IV cycle) // NAD salvage pathway V (PNC V cycle)	Cofactors Biosynthesis	Cofactors Biosynthesis
+NNDPR	QUINOPRIBOTRANS-RXN	NAD <i>de novo</i> biosynthesis III // NAD <i>de novo</i> biosynthesis IV (anaerobic) // NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde // nicotine biosynthesis // superpathway of nicotine biosynthesis	Cofactors Biosynthesis	Cofactors Biosynthesis
+OHPBAT	PSERTRANSAMPYR-RXN	pyridoxal 5'-phosphate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+OHPHM	2-OCTAPRENYL-6-OHPHENOL-METHY-RXN	ubiquinol-8 biosynthesis (early decarboxylation)	Cofactors Biosynthesis	Cofactors Biosynthesis
+OMBZLM	2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN	ubiquinol-8 biosynthesis (early decarboxylation) // ubiquinol-8 biosynthesis (late decarboxylation)	Cofactors Biosynthesis	Cofactors Biosynthesis
+OMMBLHXy	OCTAPRENYL-METHYL-METHOXY-BENZOQ-OH-RXN	ubiquinol-8 biosynthesis (early decarboxylation) // ubiquinol-8 biosynthesis (late decarboxylation)	Cofactors Biosynthesis	Cofactors Biosynthesis
+OMPHHXy	2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN	ubiquinol-8 biosynthesis (early decarboxylation) // ubiquinol-8 biosynthesis (late decarboxylation)	Cofactors Biosynthesis	Cofactors Biosynthesis
+OPHBDC	3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN	ubiquinol-8 biosynthesis (early decarboxylation)	Cofactors Biosynthesis	Cofactors Biosynthesis
+OPHHXy	2-OCTAPRENYLPHENOL-HYDROX-RXN	ubiquinol-8 biosynthesis (early decarboxylation)	Cofactors Biosynthesis	Cofactors Biosynthesis
+PANTS	PANTOATE-BETA-ALANINE-LIG-RXN	phosphopantothenate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+PC	GTP-CYCLOHYDRO-I-RXN	<i>threo</i>-tetrahydrobiopterin biosynthesis // drosopterin and aurodrosopterin biosynthesis // preQ<sub>0</sub> biosynthesis // tetrahydromonapterin biosynthesis	Cofactors Biosynthesis	Cofactors Biosynthesis
+PDX5POi	PNPOXI-RXN	4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis II // pyridoxal 5'-phosphate biosynthesis I // pyridoxal 5'-phosphate salvage I // pyridoxal 5'-phosphate salvage II (plants)	Cofactors Biosynthesis	Cofactors Biosynthesis
+PDX5PS2	PDXJ-RXN	pyridoxal 5'-phosphate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+PERD	ERYTHRON4PDEHYDROG-RXN	pyridoxal 5'-phosphate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+PMPK	PYRIMSYN3-RXN	thiamine diphosphate formation from pyrithiamine and oxythiamine (yeast) // 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis II // 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis I // thiamine diphosphate salvage IV (yeast) // hydroxymethylpyrimidine salvage	Cofactors Biosynthesis	Cofactors Biosynthesis
+PNTK	PANTOTHENATE-KIN-RXN	phosphopantothenate biosynthesis I // phosphopantothenate biosynthesis II // superpathway of coenzyme A biosynthesis III (mammals)	Cofactors Biosynthesis	Cofactors Biosynthesis
+PPC	P-PANTOCYSDECARB-RXN	coenzyme A biosynthesis III (archaea)	Cofactors Biosynthesis	Cofactors Biosynthesis
+PPNCL2	P-PANTOCYSLIG-RXN	coenzyme A biosynthesis III (archaea) // coenzyme A biosynthesis I (bacteria)	Cofactors Biosynthesis	Cofactors Biosynthesis
+PPNCL3	RXN66-555	coenzyme A biosynthesis II (eukaryotic) // taurine biosynthesis II	Cofactors Biosynthesis	Cofactors Biosynthesis
+PTPATi	PANTEPADENYLYLTRAN-RXN	coenzyme A biosynthesis III (archaea)	Cofactors Biosynthesis	Cofactors Biosynthesis
+PYAM5PO	PMPOXI-RXN	pyridoxal 5'-phosphate salvage I // pyridoxal 5'-phosphate salvage II (plants)	Cofactors Biosynthesis	Cofactors Biosynthesis
+QULNS	QUINOLINATE-SYNTHA-RXN	NAD <i>de novo</i> biosynthesis III // NAD <i>de novo</i> biosynthesis IV (anaerobic) // nicotine biosynthesis // superpathway of nicotine biosynthesis // NAD <i>de novo</i> biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+RBFK	RIBOFLAVINKIN-RXN	flavin salvage // roseoflavin biosynthesis	Cofactors Biosynthesis	Cofactors Biosynthesis
+RBFSa	LUMAZINESYN-RXN	flavin biosynthesis III (fungi)	Cofactors Biosynthesis	Cofactors Biosynthesis
+RBFSb	RIBOFLAVIN-SYN-RXN	flavin biosynthesis III (fungi)	Cofactors Biosynthesis	Cofactors Biosynthesis
+THD2pp	TRANS-RXN0-277	NAD phosphorylation and dephosphorylation // NAD phosphorylation and transhydrogenation	Cofactors Biosynthesis	Cofactors Biosynthesis
+THISAT	RXN-9789	thiazole component of thiamine diphosphate biosynthesis I // thiazole component of thiamine diphosphate biosynthesis II	Cofactors Biosynthesis	Cofactors Biosynthesis
+THISST	RXN-9788	thiazole component of thiamine diphosphate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+TMPK	THI-P-KIN-RXN	thiamine diphosphate salvage II // thiamine diphosphate biosynthesis II (Bacillus) // thiamine diphosphate biosynthesis I (E. coli) // thiamine diphosphate salvage I	Cofactors Biosynthesis	Cofactors Biosynthesis
+TMPPP	THI-P-SYN-RXN	thiamine diphosphate salvage II // thiamine diphosphate salvage IV (yeast)	Cofactors Biosynthesis	Cofactors Biosynthesis
+TMPPP_2	RXN-12611	thiamine diphosphate biosynthesis I (E. coli)	Cofactors Biosynthesis	Cofactors Biosynthesis
+TYRL	RXN-11319	thiazole component of thiamine diphosphate biosynthesis I	Cofactors Biosynthesis	Cofactors Biosynthesis
+UPP3MT	RXN-13403	cob(II)yrinate <i>a,c</i>-diamide biosynthesis I (early cobalt insertion) // cob(II)yrinate <i>a,c</i>-diamide biosynthesis II (late cobalt incorporation) // factor 430 biosynthesis // siroheme biosynthesis	Cofactors Biosynthesis	Cofactors Biosynthesis
+MI3PP	MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN	<i>myo</i>-inositol biosynthesis	Cyclitol Biosynthesis	Cyclitol Biosynthesis
+MI1PP	RXN0-5408	phytate degradation I	Cyclitol Degradation	Degradation
+AMID5	R311-RXN	acrylonitrile degradation I	Degradation/Utilization/Assimilation - Other	Degradation
+G1PACT	2.3.1.157-RXN	peptidoglycan recycling I // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I	Degradation/Utilization/Assimilation - Other	Degradation
+PGAMT	5.4.2.10-RXN	peptidoglycan recycling I // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I // CMP-legionaminate biosynthesis I	Degradation/Utilization/Assimilation - Other	Degradation
+UAGCVT	UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN	peptidoglycan recycling I // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis III (<i>meso</i>-diaminopimelate containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Degradation/Utilization/Assimilation - Other	Degradation
+UAGDP	NAG1P-URIDYLTRANS-RXN	peptidoglycan recycling I // UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis II // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II	Degradation/Utilization/Assimilation - Other	Degradation
+UAPGR	UDPNACETYLMURAMATEDEHYDROG-RXN	peptidoglycan recycling I // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing) // UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis III (<i>meso</i>-diaminopimelate containing)	Degradation/Utilization/Assimilation - Other	Degradation
+ATPS4rpp	ATPSYN-RXN	ATP biosynthesis	ETC	ETC
+CYO1_KT	1.10.2.2-RXN	aerobic respiration I (cytochrome c) // aerobic respiration II (cytochrome c) (yeast)	ETC	ETC
+CYTCBB3pp1	CYTOCHROME-C-OXIDASE-RXN		ETC	ETC
+NAD_H2	HYDROGEN-DEHYDROGENASE-RXN	hydrogen production II	ETC	ETC
+NADH16pp	NADH-DEHYDROG-A-RXN	Fe(II) oxidation // aerobic respiration I (cytochrome c) // aerobic respiration III (alternative oxidase pathway) // NADH to cytochrome <i>bo</i> oxidase electron transfer I // NADH to cytochrome <i>bd</i> oxidase electron transfer I // NAD(P)/NADPH interconversion	ETC	ETC
+3HAD100	RXN-9655	tetradecanoate biosynthesis (mitochondria) // palmitate biosynthesis III // streptorubin B biosynthesis // (5Z)-dodecenoate biosynthesis I // palmitate biosynthesis II (type II fatty acid synthase)	Lipid Biosynthesis	Lipid Biosynthesis
+3HAD120_1	RXN-9533	tetradecanoate biosynthesis (mitochondria) // palmitate biosynthesis III // streptorubin B biosynthesis // oleate biosynthesis IV (anaerobic) // palmitate biosynthesis II (type II fatty acid synthase)	Lipid Biosynthesis	Lipid Biosynthesis
+3HAD140	RXN-9537	tetradecanoate biosynthesis (mitochondria) // mycolate biosynthesis // palmitate biosynthesis III // palmitate biosynthesis II (type II fatty acid synthase)	Lipid Biosynthesis	Lipid Biosynthesis
+3HAD160	4.2.1.61-RXN	mycolate biosynthesis // palmitate biosynthesis III // palmitate biosynthesis II (type II fatty acid synthase)	Lipid Biosynthesis	Lipid Biosynthesis
+3HAD180	RXN-9634	mycolate biosynthesis // stearate biosynthesis IV // stearate biosynthesis II (bacteria and plants)	Lipid Biosynthesis	Lipid Biosynthesis
+3HAD40_2	4.2.1.58-RXN	tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast) // palmitate biosynthesis III // streptorubin B biosynthesis // palmitate biosynthesis II (type II fatty acid synthase)	Lipid Biosynthesis	Lipid Biosynthesis
+3HAD60	RXN-9520	tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast) // palmitate biosynthesis III // streptorubin B biosynthesis // palmitate biosynthesis II (type II fatty acid synthase)	Lipid Biosynthesis	Lipid Biosynthesis
+3HAD80	4.2.1.59-RXN	tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast) // palmitate biosynthesis III // streptorubin B biosynthesis // palmitate biosynthesis II (type II fatty acid synthase)	Lipid Biosynthesis	Lipid Biosynthesis
+3OAR100	RXN-9528	tetradecanoate biosynthesis (mitochondria)	Lipid Biosynthesis	Lipid Biosynthesis
+3OAR120	RXN-9532	tetradecanoate biosynthesis (mitochondria)	Lipid Biosynthesis	Lipid Biosynthesis
+3OAR140	RXN-9536	tetradecanoate biosynthesis (mitochondria)	Lipid Biosynthesis	Lipid Biosynthesis
+3OAR160	RXN-9540	mycolate biosynthesis // palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III	Lipid Biosynthesis	Lipid Biosynthesis
+3OAR180	RXN-9633	mycolate biosynthesis // stearate biosynthesis II (bacteria and plants) // stearate biosynthesis IV	Lipid Biosynthesis	Lipid Biosynthesis
+3OAR40	RXN-9514	tetradecanoate biosynthesis (mitochondria)	Lipid Biosynthesis	Lipid Biosynthesis
+3OAR60	RXN-9518	tetradecanoate biosynthesis (mitochondria)	Lipid Biosynthesis	Lipid Biosynthesis
+3OAR80	RXN-9524	tetradecanoate biosynthesis (mitochondria)	Lipid Biosynthesis	Lipid Biosynthesis
+3OAS100	RXN-9527	palmitate biosynthesis III // streptorubin B biosynthesis	Lipid Biosynthesis	Lipid Biosynthesis
+3OAS120	RXN-9531	palmitate biosynthesis III // streptorubin B biosynthesis	Lipid Biosynthesis	Lipid Biosynthesis
+3OAS140	RXN-9535	palmitate biosynthesis III	Lipid Biosynthesis	Lipid Biosynthesis
+3OAS160	RXN-9539	mycolate biosynthesis // palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III	Lipid Biosynthesis	Lipid Biosynthesis
+3OAS180	RXN-9632	mycolate biosynthesis // stearate biosynthesis II (bacteria and plants) // stearate biosynthesis IV	Lipid Biosynthesis	Lipid Biosynthesis
+3OAS60	RXN-9516	octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast) // palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // streptorubin B biosynthesis	Lipid Biosynthesis	Lipid Biosynthesis
+3OAS80	RXN-9523	octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast) // palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // streptorubin B biosynthesis	Lipid Biosynthesis	Lipid Biosynthesis
+ACACT6r	RXN1G-460	mycolate biosynthesis	Lipid Biosynthesis	Lipid Biosynthesis
+APG3PAT180	RXN-16117	stigma estolide biosynthesis	Lipid Biosynthesis	Lipid Biosynthesis
+CDLPNS140cmp	RXN-8141	superpathway of cardiolipin biosynthesis (bacteria)	Lipid Biosynthesis	Lipid Biosynthesis
+CDLPNS160cmp	RXN-8141	superpathway of cardiolipin biosynthesis (bacteria)	Lipid Biosynthesis	Lipid Biosynthesis
+CDLPNS180cmp	RXN-8141	superpathway of cardiolipin biosynthesis (bacteria)	Lipid Biosynthesis	Lipid Biosynthesis
+DASYN140	CDPDIGLYSYN-RXN	CDP-diacylglycerol biosynthesis III // type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)	Lipid Biosynthesis	Lipid Biosynthesis
+DASYN160	CDPDIGLYSYN-RXN	CDP-diacylglycerol biosynthesis III // type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)	Lipid Biosynthesis	Lipid Biosynthesis
+DASYN180	CDPDIGLYSYN-RXN	CDP-diacylglycerol biosynthesis III // type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)	Lipid Biosynthesis	Lipid Biosynthesis
+EAR140x_1	RXN-9662	mycolate biosynthesis // palmitate biosynthesis II (type II fatty acid synthase)	Lipid Biosynthesis	Lipid Biosynthesis
+EAR160x	RXN-9663	mycolate biosynthesis // palmitate biosynthesis II (type II fatty acid synthase)	Lipid Biosynthesis	Lipid Biosynthesis
+EAR180x	RXN-9635	mycolate biosynthesis // stearate biosynthesis II (bacteria and plants)	Lipid Biosynthesis	Lipid Biosynthesis
+EAR180y	RXN-22455	stearate biosynthesis IV	Lipid Biosynthesis	Lipid Biosynthesis
+EAR40y	RXN-9515	tetradecanoate biosynthesis (mitochondria)	Lipid Biosynthesis	Lipid Biosynthesis
+EAR60y	RXN-9521	tetradecanoate biosynthesis (mitochondria)	Lipid Biosynthesis	Lipid Biosynthesis
+EAR80y	RXN-9526	tetradecanoate biosynthesis (mitochondria)	Lipid Biosynthesis	Lipid Biosynthesis
+FA140ACPHi	RXN-10727	tetradecanoate biosynthesis (mitochondria)	Lipid Biosynthesis	Lipid Biosynthesis
+FA160ACPHi	RXN-9549	palmitate biosynthesis III	Lipid Biosynthesis	Lipid Biosynthesis
+FA180ACPH	RXN-9548	stearate biosynthesis IV	Lipid Biosynthesis	Lipid Biosynthesis
+FACOAE180	RXN-9624	stearate biosynthesis I (animals) // stearate biosynthesis III (fungi)	Lipid Biosynthesis	Lipid Biosynthesis
+FACOAL120t2pp	RXN-16393	palmitate biosynthesis II (type II fatty acid synthase)	Lipid Biosynthesis	Lipid Biosynthesis
+G3PAT160	RXN-16024	oleate biosynthesis III (cyanobacteria)	Lipid Biosynthesis	Lipid Biosynthesis
+G3PD1	1.1.1.8-RXN	1,3-propanediol biosynthesis (engineered) // glycerol-3-phosphate shuttle // phosphatidate biosynthesis (yeast)	Lipid Biosynthesis	Lipid Biosynthesis
+G3PD2	GLYC3PDEHYDROGBIOSYN-RXN	CDP-diacylglycerol biosynthesis III // glucosylglycerol biosynthesis	Lipid Biosynthesis	Lipid Biosynthesis
+GLGC	GLUC1PADENYLTRANS-RXN	glucosylglycerol biosynthesis // glycogen biosynthesis I (from ADP-D-Glucose) // starch biosynthesis	Lipid Biosynthesis	Lipid Biosynthesis
+MCOATA	MALONYL-COA-ACP-TRANSACYL-RXN	fatty acid biosynthesis initiation (mitochondria) // fatty acid biosynthesis initiation (type II) // mupirocin biosynthesis // fatty acid biosynthesis initiation (plant mitochondria)	Lipid Biosynthesis	Lipid Biosynthesis
+MI1PS	MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN	di-myo-inositol phosphate biosynthesis // mycothiol biosynthesis // phosphatidylinositol biosynthesis I (bacteria) // 1D-<i>myo</i>-inositol hexakisphosphate biosynthesis IV (<i>Dictyostelium</i>) // <i>myo</i>-inositol biosynthesis // 1D-<i>myo</i>-inositol hexakisphosphate biosynthesis III (<i>Spirodela polyrrhiza</i>)	Lipid Biosynthesis	Lipid Biosynthesis
+OIVD2	1.2.1.25-RXN	2-oxoisovalerate decarboxylation to isobutanoyl-CoA // even <i>iso</i>-branched-chain fatty acid biosynthesis // L-valine degradation I	Lipid Biosynthesis	Lipid Biosynthesis
+PSD140	PHOSPHASERDECARB-RXN	phosphatidylserine and phosphatidylethanolamine biosynthesis I	Lipid Biosynthesis	Lipid Biosynthesis
+PSD160	PHOSPHASERDECARB-RXN	phosphatidylserine and phosphatidylethanolamine biosynthesis I	Lipid Biosynthesis	Lipid Biosynthesis
+PSD180	PHOSPHASERDECARB-RXN	phosphatidylserine and phosphatidylethanolamine biosynthesis I	Lipid Biosynthesis	Lipid Biosynthesis
+PSSA140	PHOSPHASERSYN-RXN	superpathway of phospholipid biosynthesis II (plants)	Lipid Biosynthesis	Lipid Biosynthesis
+PSSA160	PHOSPHASERSYN-RXN	superpathway of phospholipid biosynthesis II (plants)	Lipid Biosynthesis	Lipid Biosynthesis
+PSSA180	PHOSPHASERSYN-RXN	superpathway of phospholipid biosynthesis II (plants)	Lipid Biosynthesis	Lipid Biosynthesis
+ACALD	ACETALD-DEHYDROG-RXN	mixed acid fermentation // pyruvate fermentation to ethanol I // pyruvate fermentation to ethanol III // sulfoacetaldehyde degradation IV // superpathway of fermentation (<i>Chlamydomonas reinhardtii</i>) // triethylamine degradation	Fermentation	Fermentation
+ACKr	ACETATEKIN-RXN	mixed acid fermentation // purine nucleobases degradation I (anaerobic) // purine nucleobases degradation II (anaerobic) // pyruvate fermentation to acetate II // pyruvate fermentation to acetate IV // reductive glycine pathway of autotrophic CO<sub>2</sub> fixation // superpathway of fermentation (<i>Chlamydomonas reinhardtii</i>)	Fermentation	Fermentation
+ACLS	ACETOLACTSYN-RXN	pyruvate fermentation to (<i>S</i>)-acetoin // pyruvate fermentation to isobutanol (engineered)	Fermentation	Fermentation
+ACS	ACETATE--COA-LIGASE-RXN	acetate and ATP formation from acetyl-CoA III // acetate conversion to acetyl-CoA // chitin deacetylation // ethanol degradation II // ethanol degradation III // ethanol degradation IV // reductive glycine pathway of autotrophic CO<sub>2</sub> fixation	Fermentation	Fermentation
+ALCD2x	ALCOHOL-DEHYDROG-RXN	mixed acid fermentation // pyruvate fermentation to ethanol I // pyruvate fermentation to ethanol II // pyruvate fermentation to ethanol III // superpathway of fermentation (<i>Chlamydomonas reinhardtii</i>)	C3 metabolism	C3 metabolism
+BTS	RXN-161	pyruvate fermentation to butanol I // pyruvate fermentation to butanol II (engineered)	Fermentation	Fermentation
+FHL	FHLMULTI-RXN	mixed acid fermentation // (<i>S</i>)-lactate fermentation to propanoate, acetate and hydrogen // hydrogen production V	Fermentation	Fermentation
+LDH_L	L-LACTATE-DEHYDROGENASE-RXN	(<i>S</i>)-lactate fermentation to propanoate, acetate and hydrogen // Bifidobacterium shunt // heterolactic fermentation // pyruvate fermentation to (<i>S</i>)-lactate // superpathway of glucose and xylose degradation	Fermentation	Fermentation
+PKETX	PHOSPHOKETOLASE-RXN	Bifidobacterium shunt // heterolactic fermentation	Fermentation	Fermentation
+POR_syn	PYRUFLAVREDUCT-RXN	L-glutamate degradation VII (to butanoate) // lactate fermentation to acetate, CO<sub>2</sub> and hydrogen (<i>Desulfovibrionales</i>) // purine nucleobases degradation II (anaerobic) // pyruvate decarboxylation to acetyl CoA III // pyruvate fermentation to acetate I // pyruvate fermentation to acetate III // pyruvate fermentation to acetate VI // pyruvate fermentation to acetate VII // pyruvate fermentation to acetone // pyruvate fermentation to butanoate // pyruvate fermentation to butanol I // pyruvate fermentation to ethanol III // pyruvate fermentation to hexanol (engineered) // reductive glycine pathway of autotrophic CO<sub>2</sub> fixation // reductive monocarboxylic acid cycle // reductive TCA cycle I // reductive TCA cycle II	Fermentation	Fermentation
+PTAr	PHOSACETYLTRANS-RXN	mixed acid fermentation // purine nucleobases degradation II (anaerobic) // pyruvate fermentation to acetate II // pyruvate fermentation to acetate IV // sulfoacetaldehyde degradation I // sulfolactate degradation II // superpathway of fermentation (<i>Chlamydomonas reinhardtii</i>)	Fermentation	Fermentation
+ENO	2PGADEHYDRAT-RXN	glycolysis VI (from fructose) // Entner-Doudoroff pathway III (semi-phosphorylative) // gluconeogenesis II (<i>Methanobacterium thermoautotrophicum</i>) // glycolysis I (from glucose 6-phosphate) // glycolysis III (from glucose) // glycolysis II (from fructose 6-phosphate) // glycolysis V (Pyrococcus) // Entner-Doudoroff pathway I // formaldehyde assimilation I (serine pathway) // gluconeogenesis I // glycerol degradation to butanol // Bifidobacterium shunt // heterolactic fermentation // superpathway of glucose and xylose degradation // Entner-Doudoroff pathway II (non-phosphorylative) // gluconeogenesis III // photosynthetic 3-hydroxybutanoate biosynthesis (engineered) // ethene biosynthesis V (engineered) // 1-butanol autotrophic biosynthesis (engineered) // Rubisco shunt // glycolysis IV	Glycolysis	Glycolysis
+FBA	F16ALDOLASE-RXN	1,3-propanediol biosynthesis (engineered) // gluconeogenesis II (<i>Methanobacterium thermoautotrophicum</i>) // glycolysis I (from glucose 6-phosphate) // sucrose biosynthesis I (from photosynthesis) // glycolysis III (from glucose) // glycolysis II (from fructose 6-phosphate) // glycolysis V (Pyrococcus) // gluconeogenesis I // gluconeogenesis III // CO<sub>2</sub> Fixation // formaldehyde assimilation III (dihydroxyacetone cycle) // formaldehyde assimilation II (assimilatory RuMP Cycle) // glycolysis IV	Glycolysis	Glycolysis
+FBP	F16BDEPHOS-RXN	glycolysis I (from glucose 6-phosphate) // sucrose biosynthesis I (from photosynthesis) // glycolysis II (from fructose 6-phosphate) // gluconeogenesis I // gluconeogenesis III // CO<sub>2</sub> Fixation // formaldehyde assimilation III (dihydroxyacetone cycle)	Glycolysis	Glycolysis
+GLUKA_1	GLUCOKIN-RXN	1,3-propanediol biosynthesis (engineered) // Bifidobacterium shunt // GDP-&alpha;-D-glucose biosynthesis // glucose and glucose-1-phosphate degradation // glycogen degradation I // glycogen degradation II // glycolysis III (from glucose) // heterolactic fermentation // sucrose biosynthesis II // sucrose degradation III (sucrose invertase) // trehalose degradation I (low osmolarity) // trehalose degradation II (cytosolic) // trehalose degradation IV // trehalose degradation V // UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis II // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II	Glycolysis	Glycolysis
+PEPC	PEPCARBOX-RXN	mixed acid fermentation // gluconeogenesis II (<i>Methanobacterium thermoautotrophicum</i>) // <i>Methanobacterium thermoautotrophicum</i> biosynthetic metabolism // nitrogen remobilization from senescing leaves // C4 photosynthetic carbon assimilation cycle, PEPCK type // C4 photosynthetic carbon assimilation cycle, NAD-ME type // C4 photosynthetic carbon assimilation cycle, NADP-ME type // partial TCA cycle (obligate autotrophs) // formaldehyde assimilation I (serine pathway) // ethene biosynthesis V (engineered) // CO<sub>2</sub> fixation into oxaloacetate (anaplerotic)	Glycolysis	Glycolysis
+PFK	6PFRUCTPHOS-RXN	1,3-propanediol biosynthesis (engineered) // formaldehyde assimilation II (assimilatory RuMP Cycle) // glycolysis I (from glucose 6-phosphate) // glycolysis II (from fructose 6-phosphate) // glycolysis III (from glucose) // glycolysis IV	Glycolysis	Glycolysis
+PGI	PGLUCISOM-RXN	1,3-propanediol biosynthesis (engineered) // gluconeogenesis II (<i>Methanobacterium thermoautotrophicum</i>) // glycolysis I (from glucose 6-phosphate) // sucrose biosynthesis III // UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis II // chitin biosynthesis // sucrose biosynthesis I (from photosynthesis) // 1,5-anhydrofructose degradation // glycolysis III (from glucose) // UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis III // glycolysis V (Pyrococcus) // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II // gluconeogenesis I // starch biosynthesis // gluconeogenesis III // sucrose degradation IV (sucrose phosphorylase) // sucrose biosynthesis II // sucrose degradation II (sucrose synthase) // D-sorbitol biosynthesis I // formaldehyde oxidation I // heterolactic fermentation // GDP-mannose biosynthesis // Bifidobacterium shunt // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I // sucrose degradation III (sucrose invertase)	Glycolysis	Glycolysis
+PGK	PHOSGLYPHOS-RXN	glycolysis VI (from fructose) // glycolysis I (from glucose 6-phosphate) // sucrose biosynthesis I (from photosynthesis) // glycolysis III (from glucose) // glycolysis II (from fructose 6-phosphate) // Entner-Doudoroff pathway I // gluconeogenesis I // glycerol degradation to butanol // Bifidobacterium shunt // heterolactic fermentation // superpathway of glucose and xylose degradation // gluconeogenesis III // 1-butanol autotrophic biosynthesis (engineered) // CO<sub>2</sub> Fixation // formaldehyde assimilation III (dihydroxyacetone cycle) // glycolysis IV	Glycolysis	Glycolysis
+PGM	3PGAREARR-RXN	glycolysis VI (from fructose) // Entner-Doudoroff pathway III (semi-phosphorylative) // gluconeogenesis II (<i>Methanobacterium thermoautotrophicum</i>) // glycolysis I (from glucose 6-phosphate) // photorespiration II // glycolysis III (from glucose) // glycolysis II (from fructose 6-phosphate) // glycolysis V (Pyrococcus) // gluconeogenesis I // glycerol degradation to butanol // Bifidobacterium shunt // superpathway of glucose and xylose degradation // photosynthetic 3-hydroxybutanoate biosynthesis (engineered) // ethene biosynthesis V (engineered) // 1-butanol autotrophic biosynthesis (engineered) // Rubisco shunt // glycolysis IV	Glycolysis	Glycolysis
+PPCK	PEPCARBOXYKIN-RXN	C4 photosynthetic carbon assimilation cycle, PEPCK type // gluconeogenesis I // superpathway of glyoxylate cycle and fatty acid degradation	Glycolysis	Glycolysis
+PPS	PEPSYNTH-RXN	gluconeogenesis II (<i>Methanobacterium thermoautotrophicum</i>) // glycolysis I (from glucose 6-phosphate) // glycolysis II (from fructose 6-phosphate) // glycolysis V (Pyrococcus)	Glycolysis	Glycolysis
+PYK	PEPDEPHOS-RXN	mixed acid fermentation // photosynthetic 3-hydroxybutanoate biosynthesis (engineered) // Rubisco shunt // superpathway of glucose and xylose degradation	Fermentation	Fermentation
+TPI	TRIOSEPISOMERIZATION-RXN	glycolysis VI (from fructose) // sucrose degradation V (sucrose &alpha;-glucosidase) // gluconeogenesis II (<i>Methanobacterium thermoautotrophicum</i>) // glycolysis I (from glucose 6-phosphate) // glycolysis III (from glucose) // glycolysis II (from fructose 6-phosphate) // glycolysis V (Pyrococcus) // gluconeogenesis I // glycerol degradation to butanol // gluconeogenesis III // CO<sub>2</sub> Fixation // formaldehyde assimilation III (dihydroxyacetone cycle) // glycolysis IV	Glycolysis	Glycolysis
+AMID3	RXNN-404	indole-3-acetate biosynthesis II // indole-3-acetate biosynthesis III (bacteria) // indole-3-acetate biosynthesis IV (bacteria)	Hormone, Neurotransmitter, and Signaling Molecule Biosynthesis	Hormone, Neurotransmitter, and Signaling Molecule Biosynthesis
+ADPT	ADENPRIBOSYLTRAN-RXN	glyphosate degradation III // (aminomethyl)phosphonate degradation // adenine and adenosine salvage I // adenine salvage // adenine and adenosine salvage II	Inorganic Nutrient Metabolism	Inorganic Nutrient Metabolism
+ADSK	ADENYLYLSULFKIN-RXN	assimilatory sulfate reduction IV // sulfate activation for sulfonation	Inorganic Nutrient Metabolism	Inorganic Nutrient Metabolism
+APSR	RXN-12019	assimilatory sulfate reduction III	Inorganic Nutrient Metabolism	Inorganic Nutrient Metabolism
+CYANST	THIOSULFATE-SULFURTRANSFERASE-RXN	thiosulfate disproportionation IV (rhodanese)	Inorganic Nutrient Metabolism	Inorganic Nutrient Metabolism
+CYNL	R524-RXN	cyanate degradation	Inorganic Nutrient Metabolism	Inorganic Nutrient Metabolism
+MTOX	METHANETHIOL-OXIDASE-RXN	dimethyl sulfide degradation I	Inorganic Nutrient Metabolism	Inorganic Nutrient Metabolism
+PAPSR	1.8.4.8-RXN	assimilatory sulfate reduction IV	Inorganic Nutrient Metabolism	Inorganic Nutrient Metabolism
+PPA	INORGPYROPHOSPHAT-RXN	glyphosate degradation III	Inorganic Nutrient Metabolism	Inorganic Nutrient Metabolism
+SADT	SULFATE-ADENYLYLTRANS-RXN	dissimilatory sulfate reduction I (to hydrogen sufide)) // sulfate activation for sulfonation // sulfite oxidation III	Inorganic Nutrient Metabolism	Inorganic Nutrient Metabolism
+SULR	SULFITE-REDUCT-RXN	assimilatory sulfate reduction III	Inorganic Nutrient Metabolism	Inorganic Nutrient Metabolism
+AMOq8	AMONITRO-RXN	ammonia oxidation I (aerobic) // ammonia oxidation III	Nitrogen	Nitrogen
+GLUSy	GLUTAMATESYN-RXN	ammonia assimilation cycle III // L-glutamate biosynthesis I // L-glutamine degradation II	Nitrogen	Nitrogen
+HAO1pp	RXN-13570	nitrifier denitrification	Nitrogen	Nitrogen
+NIT1c	NITROGENASE-RXN	nitrogen fixation I (ferredoxin)	Nitrogen	Nitrogen
+NITR	NITRATE-REDUCTASE-NADPH-RXN	nitrate reduction V (assimilatory)	Nitrogen	Nitrogen
+NITR_NOpp	NITRITE-REDUCTASE-CYTOCHROME-RXN	nitrifier denitrification // nitrite-dependent anaerobic methane oxidation	Nitrogen	Nitrogen
+NO3t7p	TRANS-RXN0-239	nitrate reduction I (denitrification) // nitrate reduction VII (denitrification)	Nitrogen	Nitrogen
+NORpp	NITRIC-OXIDE-REDUCTASE-RXN	nitrifier denitrification // nitrate reduction I (denitrification)	Nitrogen	Nitrogen
+PO2OXG	RXN-3483	ammonia oxidation III	Nitrogen	Nitrogen
+POS	RXN-3482	ammonia oxidation III	Nitrogen	Nitrogen
+ADK1	ADENYL-KIN-RXN	adenosine ribonucleotides <i>de novo</i> biosynthesis	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+ADSL1r	AMPSYN-RXN	adenosine ribonucleotides <i>de novo</i> biosynthesis	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+ADSL2r	AICARSYN-RXN	inosine-5'-phosphate biosynthesis III // inosine-5'-phosphate biosynthesis I // inosine-5'-phosphate biosynthesis II	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+ADSS	ADENYLOSUCCINATE-SYNTHASE-RXN	adenosine ribonucleotides <i>de novo</i> biosynthesis	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+AICART	AICARTRANSFORM-RXN	inosine-5'-phosphate biosynthesis I // inosine-5'-phosphate biosynthesis II	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+AIRC2	RXN0-742	inosine-5'-phosphate biosynthesis III	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+AIRC3	RXN0-743	inosine-5'-phosphate biosynthesis III // inosine-5'-phosphate biosynthesis I	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+AIRCr	AIRCARBOXY-RXN	inosine-5'-phosphate biosynthesis II	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+ASPCT	ASPCARBTRANS-RXN	UMP biosynthesis II // UMP biosynthesis III	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+CBPS	CARBPSYN-RXN	UMP biosynthesis II // L-arginine biosynthesis IV (archaea) // L-arginine biosynthesis I (via L-ornithine) // UMP biosynthesis III // UMP biosynthesis I // L-arginine biosynthesis III (via <i>N</i>-acetyl-L-citrulline) // L-arginine biosynthesis II (acetyl cycle)	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+CYTD	CYTIDEAM2-RXN	pyrimidine ribonucleosides salvage I // pyrimidine ribonucleosides salvage II	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+CYTK1	RXN-11832	CMP phosphorylation	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+DCTPD	DCTP-DEAM-RXN	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>)	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+DHORD5	DIHYDROOROTATE-DEHYDROGENASE-RXN	UMP biosynthesis I	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+DHORTS	DIHYDROOROT-RXN	UMP biosynthesis II // UMP biosynthesis III	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+DTMPK	DTMPKI-RXN	pyrimidine deoxyribonucleotides biosynthesis from CTP // pyrimidine deoxyribonucleotide phosphorylation // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis IV // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis III // superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+GHMT2r	GLYOHMETRANS-RXN	photorespiration I // purine nucleobases degradation II (anaerobic) // photorespiration III // photorespiration II // glycine betaine degradation III // glycine betaine degradation I // glycine betaine degradation II (mammalian) // folate polyglutamylation // folate transformations I // dTMP <i>de novo</i> biosynthesis (mitochondrial) // formaldehyde assimilation I (serine pathway) // folate transformations III (<i>E. coli</i>) // folate transformations II (plants) // glycine biosynthesis I	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+GK1	GUANYL-KIN-RXN	guanosine ribonucleotides <i>de novo</i> biosynthesis	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+GLUPRT	PRPPAMIDOTRANS-RXN	5-aminoimidazole ribonucleotide biosynthesis I // 5-aminoimidazole ribonucleotide biosynthesis II // superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+GMPS2	GMP-SYN-GLUT-RXN	guanosine ribonucleotides <i>de novo</i> biosynthesis	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+GUAPRT	GUANPRIBOSYLTRAN-RXN	guanine and guanosine salvage I // guanine and guanosine salvage II	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+HXPRT	HYPOXANPRIBOSYLTRAN-RXN	adenine salvage // adenine and adenosine salvage III	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+IMPC	IMPCYCLOHYDROLASE-RXN	inosine-5'-phosphate biosynthesis III // inosine-5'-phosphate biosynthesis I // inosine-5'-phosphate biosynthesis II	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+IMPD	IMP-DEHYDROG-RXN	guanosine ribonucleotides <i>de novo</i> biosynthesis // inosine 5'-phosphate degradation	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+NDPK1	GDPKIN-RXN	guanosine ribonucleotides <i>de novo</i> biosynthesis // ppGpp metabolism	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+NDPK2	UDPKIN-RXN	UTP and CTP <i>de novo</i> biosynthesis	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+NDPK3	CDPKIN-RXN	CMP phosphorylation	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+NDPK4	DTDPKIN-RXN	pyrimidine deoxyribonucleotides biosynthesis from CTP // pyrimidine deoxyribonucleotide phosphorylation // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis IV // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis III // superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+NDPK5	DGDPKIN-RXN	guanosine deoxyribonucleotides <i>de novo</i> biosynthesis I // guanosine deoxyribonucleotides <i>de novo</i> biosynthesis II // purine deoxyribonucleosides salvage	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+NDPK6	DUDPKIN-RXN	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis III // superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>)	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+NDPK7	DCDPKIN-RXN	pyrimidine deoxyribonucleotides biosynthesis from CTP // pyrimidine deoxyribonucleotide phosphorylation // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis IV // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis III // superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>)	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+NDPK8	DADPKIN-RXN	adenosine deoxyribonucleotides <i>de novo</i> biosynthesis II // adenosine deoxyribonucleotides <i>de novo</i> biosynthesis I // purine deoxyribonucleosides salvage	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+OMPDC	OROTPDECARB-RXN	UMP biosynthesis II // UMP biosynthesis III	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+ORPT	OROPRIBTRANS-RXN	UMP biosynthesis II // UMP biosynthesis III // UMP biosynthesis I	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+PRAGSr	GLYRIBONUCSYN-RXN	5-aminoimidazole ribonucleotide biosynthesis I // 5-aminoimidazole ribonucleotide biosynthesis II // superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+PRAIS	AIRS-RXN	5-aminoimidazole ribonucleotide biosynthesis I // 5-aminoimidazole ribonucleotide biosynthesis II // superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+PRASCSi	SAICARSYN-RXN	inosine-5'-phosphate biosynthesis III	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+PRFGS	FGAMSYN-RXN	5-aminoimidazole ribonucleotide biosynthesis I // 5-aminoimidazole ribonucleotide biosynthesis II // superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+RNDR1	ADPREDUCT-RXN	adenosine deoxyribonucleotides <i>de novo</i> biosynthesis II // adenosine deoxyribonucleotides <i>de novo</i> biosynthesis I	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+RNDR2	GDPREDUCT-RXN	guanosine deoxyribonucleotides <i>de novo</i> biosynthesis I // guanosine deoxyribonucleotides <i>de novo</i> biosynthesis II	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+RNDR3	CDPREDUCT-RXN	pyrimidine deoxyribonucleotides biosynthesis from CTP // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis IV // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis III // superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>)	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+RNDR4	UDPREDUCT-RXN	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis III // superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>)	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+RNTRA2	RXN0-746	guanosine deoxyribonucleotides <i>de novo</i> biosynthesis II	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+RNTRA3	RXN0-723	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>)	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+RNTRA4	RXN0-724	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>)	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+TMDS	THYMIDYLATESYN-RXN	dTMP <i>de novo</i> biosynthesis (mitochondrial) // folate transformations III (<i>E. coli</i>) // folate transformations II (plants) // pyrimidine deoxyribonucleotides biosynthesis from CTP // pyrimidine deoxyribonucleosides salvage // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis IV // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I // superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+UMPK	RXN-12002	UTP and CTP <i>de novo</i> biosynthesis	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+UPPRT	URACIL-PRIBOSYLTRANS-RXN	pyrimidine nucleobases salvage I	Nucleotides/sides Biosynthesis	Nucleotides/sides Biosynthesis
+ADA	ADENODEAMIN-RXN	purine ribonucleosides degradation	Nucleotides/sides Degradation	Degradation
+APDH	RXN-15127	purine nucleobases degradation II (anaerobic) // L-mimosine degradation // glycine betaine degradation III // glycine betaine degradation I // felinine and 3-methyl-3-sulfanylbutan-1-ol biosynthesis // glutathione-mediated detoxification I // L-methionine biosynthesis II // D-serine degradation // L-tryptophan degradation II (via pyruvate) // L-cysteine degradation II // L-serine degradation	Nucleotides/sides Degradation	Degradation
+CBMD	RXN0-5222	uracil degradation III // urea degradation I // cyanuric acid degradation II // cyanuric acid degradation I // allantoin degradation IV (anaerobic) // L-citrulline degradation // cyanate degradation	Nucleotides/sides Degradation	Degradation
+CTPS2	CTPSYN-RXN	UTP and CTP dephosphorylation I // UTP and CTP <i>de novo</i> biosynthesis // UTP and CTP dephosphorylation II	Nucleotides/sides Degradation	Degradation
+D5OAP	RXN-14304	5'-deoxyadenosine degradation I	Nucleotides/sides Degradation	Degradation
+D5OR1PA	RXN-21316	5'-deoxyadenosine degradation II	Nucleotides/sides Degradation	Degradation
+D5OR1PI	RXN-21315	5'-deoxyadenosine degradation II // 5'-deoxyadenosine degradation I	Nucleotides/sides Degradation	Degradation
+DADA	ADDALT-RXN	purine deoxyribonucleosides degradation II	Nucleotides/sides Degradation	Degradation
+DCYTD	CYTIDEAM-RXN	pyrimidine deoxyribonucleosides degradation // pyrimidine deoxyribonucleosides salvage	Nucleotides/sides Degradation	Degradation
+DHPM1	DIHYDROPYRIMIDINASE-RXN	uracil degradation I (reductive)	Nucleotides/sides Degradation	Degradation
+DURAD	1.3.1.2-RXN	uracil degradation I (reductive)	Nucleotides/sides Degradation	Degradation
+DURAD2	RXN-11209	thymine degradation	Nucleotides/sides Degradation	Degradation
+DURIPP	URA-PHOSPH-RXN	pyrimidine deoxyribonucleosides degradation	Nucleotides/sides Degradation	Degradation
+DUTPDP	DUTP-PYROP-RXN	pyrimidine deoxyribonucleotides dephosphorylation // superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>)	Nucleotides/sides Degradation	Degradation
+FDH	1.2.1.2-RXN	purine nucleobases degradation II (anaerobic) // purine nucleobases degradation I (anaerobic) // oxalate degradation VI // oxalate degradation III // formate oxidation to CO<sub>2</sub>	Nucleotides/sides Degradation	Degradation
+FTHFD	FORMYLTHFDEFORMYL-RXN	purine nucleobases degradation II (anaerobic)	Nucleotides/sides Degradation	Degradation
+MTHFC	METHENYLTHFCYCLOHYDRO-RXN	purine nucleobases degradation II (anaerobic) // reductive acetyl coenzyme A pathway I (homoacetogenic bacteria) // reductive glycine pathway of autotrophic CO<sub>2</sub> fixation // tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	Nucleotides/sides Degradation	Degradation
+MTHFD_1	METHYLENETHFDEHYDROG-NADP-RXN	purine nucleobases degradation II (anaerobic) // reductive glycine pathway of autotrophic CO<sub>2</sub> fixation // folate transformations I // reductive acetyl coenzyme A pathway I (homoacetogenic bacteria) // formaldehyde oxidation VII (THF pathway) // formate assimilation into 5,10-methylenetetrahydrofolate // folate transformations III (<i>E. coli</i>) // folate transformations II (plants)	Nucleotides/sides Degradation	Degradation
+NTD2	RXN-14025	UTP and CTP dephosphorylation I // tunicamycin biosynthesis	Nucleotides/sides Degradation	Degradation
+NTPP3	DCTP-PYROPHOSPHATASE-RXN	pyrimidine deoxyribonucleotides dephosphorylation	Nucleotides/sides Degradation	Degradation
+PPM	PPENTOMUT-RXN	purine ribonucleosides degradation	Nucleotides/sides Degradation	Degradation
+PUNP1	ADENPHOSPHOR-RXN	Nucleotides/sides Degradation (archaea) // purine ribonucleosides degradation // adenine and adenosine salvage I // adenine and adenosine salvage III // adenine and adenosine salvage V	Nucleotides/sides Degradation	Degradation
+PUNP3	RXN0-5199	Nucleotides/sides Degradation (halobacteria) // Nucleotides/sides Degradation (archaea) // purine ribonucleosides degradation // guanine and guanosine salvage I // guanosine nucleotides degradation III	Nucleotides/sides Degradation	Degradation
+PUNP5	INOPHOSPHOR-RXN	purine ribonucleosides degradation // adenosine nucleotides degradation II // adenine and adenosine salvage III	Nucleotides/sides Degradation	Degradation
+PUNP7	XANTHOSINEPHOSPHORY-RXN	purine ribonucleosides degradation // inosine 5'-phosphate degradation // xanthine and xanthosine salvage	Nucleotides/sides Degradation	Degradation
+PYNP2r	URPHOS-RXN	Nucleotides/sides Degradation (archaea) // pyrimidine ribonucleosides degradation	Nucleotides/sides Degradation	Degradation
+SERDA	RXN-15125	purine nucleobases degradation II (anaerobic) // glycine betaine degradation III // glycine betaine degradation I // L-serine degradation	Nucleotides/sides Degradation	Degradation
+TMDPP	THYM-PHOSPH-RXN	pyrimidine deoxyribonucleosides degradation	Nucleotides/sides Degradation	Degradation
+UPPN	BETA-UREIDOPROPIONASE-RXN	uracil degradation I (reductive)	Nucleotides/sides Degradation	Degradation
+ACt2rpp	TRANS-RXN0-571		Other	Other
+ACYP_2	ACYLPHOSPHATASE-RXN		Fermentation	Fermentation
+AGPAT140	RXN-17022		Other	Other
+AGPAT160	RXN0-6705		Other	Other
+AGPAT180	RXN-16076		Other	Other
+AGPOP	RXN-14207		Other	Other
+AKGt2rpp	TRANS-RXN-23		Other	Other
+ALAALAabcpp	ABC-8-RXN		Other	Other
+AMALT2	RXN-14260		Other	Other
+AMALT3	RXN-14261		Other	Other
+AMID4	RXN-14728		Other	Other
+ASNTRH	RXN-12460		Other	Other
+atpm	ATPASE-RXN		Other	Other
+ATPS1	3.6.3.6-RXN		Other	Other
+CA2tex	TRANS-RXN-144		Other	Other
+CBL1abcpp	ABC-5-RXN		Other	Other
+CBPD	RXN-17753		Other	Other
+CO2tex	TRANS-RXN0-545		Other	Other
+CO2tex	TRANS-RXN0-545		Other	Other
+COBALT2tex	TRANS-RXN-141A		Other	Other
+COtpp	TRANS-RXN0-556		Other	Other
+CTPS1	RXN-14325		Other	Other
+CU2t3pp	TRANS-RXN0-280		Other	Other
+CYNTtex	TRANS-RXN-14		Other	Other
+DAPOPc	RXN-14192		Other	Other
+DCTPD2	RXN-14118		Other	Other
+DHNAOT4	RXN-10623		Other	Other
+DURAD2x	RXN0-6565		Other	Other
+DURADx	DIHYDROURACIL-DEHYDROGENASE-NAD+-RXN		Other	Other
+ETOHtex	TRANS-RXN0-546		Other	Other
+ETOHtex	TRANS-RXN0-546		Other	Other
+FE2Gabcpp	TRANS-RXN-424		Other	Other
+FE2t3pp	RXN0-6		Other	Other
+FE2tex	TRANS-RXN-8		Other	Other
+FE3abcpp	3.6.3.30-RXN		Other	Other
+FORtppi	TRANS-RXN-1		Other	Other
+FORtppi	TRANS-RXN-1		Other	Other
+G3PAT140	RXN-17017		Other	Other
+G3PAT180	RXN-17018		Other	Other
+GLYCLTDy	GLYCOLATEDEHYDRO-RXN		Other	Other
+H2CO3D2	RXN-18031		Other	Other
+H2Otex	TRANS-RXN0-547		Other	Other
+H2Otpp	TRANS-RXN-145		Other	Other
+HCYSMT	HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN		Other	Other
+HYD4pp	RXN0-5256		Other	Other
+IG3PS_2	RXN-17900		Other	Other
+Kt2pp	TRANS-RXN-3		Other	Other
+Kt3pp	TRANS-RXN-42		Other	Other
+L_LACt2rpp	TRANS-RXN-104		Other	Other
+MG2uabcpp	TRANS-RXN-250		Other	Other
+MN2tpp	TRANS-RXN0-487		Other	Other
+MNabc_1	3.6.3.35-RXN		Other	Other
+MNtex	RXN0-16		Other	Other
+NAt3pp	TRANS-RXN-101		Other	Other
+NO2tpp	TRANS-RXN-137		Other	Other
+NTD3pp	RXN0-5292		Other	Other
+NTP3	RXN0-5462		Other	Other
+NTPP10	RXN0-1602		Other	Other
+NTPP9	RXN0-6382		Other	Other
+NTRIR2x	RXN-13854		Nitrogen	Nitrogen
+O2tex	TRANS-RXN0-474		Other	Other
+PDHbr	DIHYDLIPACETRANS-RXN		Other	Other
+PItex	TRANS-RXN0-470		Other	Other
+PIuabcpp	ABC-27-RXN		Other	Other
+PPANAp	RXN-21066		Other	Other
+PYK3	RXN-14117		Glycolysis	Glycolysis
+RNTR1	RXN-21262		Other	Other
+RNTR2	RXN-21263		Other	Other
+RNTR3	RXN-21264		Other	Other
+RNTR4	RXN-21265		Other	Other
+RNTR5	1.17.4.2-RXN		Other	Other
+RNTRA5	RIBONUCLEOSIDE-TRIP-REDUCT-RXN		Other	Other
+ZN2t3pp	TRANS-RXN0-200		Other	Other
+ZNabcpp	ABC-63-RXN		Other	Other
+AOXSr	7KAPSYN-RXN	8-amino-7-oxononanoate biosynthesis III	Other Biosynthesis	Other Biosynthesis
+AOXSr2	RXN-11484	8-amino-7-oxononanoate biosynthesis IV	Other Biosynthesis	Other Biosynthesis
+DNMPPA	DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN	6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia) // 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I // 6-hydroxymethyl-dihydropterin diphosphate biosynthesis II (<i>Methanocaldococcus</i>)	Other Biosynthesis	Other Biosynthesis
+DNTPPA	H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	Other Biosynthesis	Other Biosynthesis
+EGMEACPR	RXN-11478	8-amino-7-oxononanoate biosynthesis I	Other Biosynthesis	Other Biosynthesis
+EPMEACPR	RXN-11482	8-amino-7-oxononanoate biosynthesis I	Other Biosynthesis	Other Biosynthesis
+IPMD	RXN-13158	3-methylbutanol biosynthesis (engineered) // L-leucine biosynthesis	Other Biosynthesis	Other Biosynthesis
+IPPMIa	RXN-13163	3-methylbutanol biosynthesis (engineered) // L-leucine biosynthesis	Other Biosynthesis	Other Biosynthesis
+KGLACPR	RXN-11476	8-amino-7-oxononanoate biosynthesis I	Other Biosynthesis	Other Biosynthesis
+KPIMR	RXN-11480	8-amino-7-oxononanoate biosynthesis I	Other Biosynthesis	Other Biosynthesis
+MALACPD	RXN-11474	8-amino-7-oxononanoate biosynthesis I	Other Biosynthesis	Other Biosynthesis
+MALCOAM	RXN-11475	8-amino-7-oxononanoate biosynthesis I	Other Biosynthesis	Other Biosynthesis
+OGMEACPD	RXN-11477	8-amino-7-oxononanoate biosynthesis I	Other Biosynthesis	Other Biosynthesis
+OPMEACPD	RXN-11481	8-amino-7-oxononanoate biosynthesis I	Other Biosynthesis	Other Biosynthesis
+OPMEACPS	RXN-11479	8-amino-7-oxononanoate biosynthesis I	Other Biosynthesis	Other Biosynthesis
+PMEACPE	RXN-11483	8-amino-7-oxononanoate biosynthesis I	Other Biosynthesis	Other Biosynthesis
+PPK2	H2PTERIDINEPYROPHOSPHOKIN-RXN	6-hydroxymethyl-dihydropterin diphosphate biosynthesis V (<i>Pyrococcus</i>)	Other Biosynthesis	Other Biosynthesis
+TRDR	THIOREDOXIN-REDUCT-NADPH-RXN	thioredoxin pathway	Other Biosynthesis	Other Biosynthesis
+DMATT	GPPSYN-RXN	<i>trans, trans</i>-farnesyl diphosphate biosynthesis // ipsdienol biosynthesis // mono-<i>trans</i>, poly-<i>cis</i> decaprenyl phosphate biosynthesis // (3<i>R</i>)-linalool biosynthesis // stellatic acid biosynthesis // <i>all-trans</i>-farnesol biosynthesis // viridicatumtoxin biosynthesis // bisabolene biosynthesis (engineered) // linalool biosynthesis I // (3<i>S</i>)-linalool biosynthesis // geranyl diphosphate biosynthesis	Polyprenyl Biosynthesis	Polyprenyl Biosynthesis
+GRTT	FPPSYN-RXN	<i>trans, trans</i>-farnesyl diphosphate biosynthesis // stellatic acid biosynthesis // methyl phomopsenoate biosynthesis // <i>all-trans</i>-farnesol biosynthesis // bisabolene biosynthesis (engineered)	Polyprenyl Biosynthesis	Polyprenyl Biosynthesis
+HXPDPS	TRANS-PENTAPRENYLTRANSFERASE-RXN	hexaprenyl diphosphate biosynthesis	Polyprenyl Biosynthesis	Polyprenyl Biosynthesis
+TDP	RXN-8992	octaprenyl diphosphate biosynthesis	Polyprenyl Biosynthesis	Polyprenyl Biosynthesis
+UDCPDPS	RXN-8999	di-<i>trans</i>,poly-<i>cis</i>-undecaprenyl phosphate biosynthesis	Polyprenyl Biosynthesis	Polyprenyl Biosynthesis
+UDCPP	UNDECAPRENYL-DIPHOSPHATASE-RXN	di-<i>trans</i>,poly-<i>cis</i>-undecaprenyl phosphate biosynthesis	Polyprenyl Biosynthesis	Polyprenyl Biosynthesis
+FBA3	SEDOBISALDOL-RXN	pentose phosphate pathway (non-oxidative branch) II // sedoheptulose bisphosphate bypass	PPP	PPP
+G6PDH2r	GLU6PDEHYDROG-RXN	Entner-Doudoroff pathway I // formaldehyde oxidation I // heterolactic fermentation // pentose phosphate pathway (oxidative branch) I // superpathway of glycolysis and the Entner-Doudoroff pathway	PPP	PPP
+GND	RXN-9952	pentose phosphate pathway (oxidative branch) I	PPP	PPP
+PGL	6PGLUCONOLACT-RXN	Entner-Doudoroff pathway I // formaldehyde oxidation I // heterolactic fermentation // pentose phosphate pathway (oxidative branch) I // superpathway of glycolysis and the Entner-Doudoroff pathway	PPP	PPP
+TALA	TRANSALDOL-RXN	Bifidobacterium shunt // formaldehyde assimilation III (dihydroxyacetone cycle) // Rubisco shunt // pentose phosphate pathway (non-oxidative branch) I // formaldehyde assimilation II (assimilatory RuMP Cycle)	PPP	PPP
+CAT	CATAL-RXN	reactive oxygen species degradation // superoxide radicals degradation	Reactive Oxygen Species Degradation	Reactive Oxygen Species Degradation
+SPODM	SUPEROX-DISMUT-RXN	reactive oxygen species degradation // superoxide radicals degradation	Reactive Oxygen Species Degradation	Reactive Oxygen Species Degradation
+ACCOAC	ACETYL-COA-CARBOXYLTRANSFER-RXN	jadomycin biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+ADCS	PABASYN-RXN	chloramphenicol biosynthesis // 4-aminobenzoate biosynthesis I	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+AHTS	RXN-13533	hopanoid biosynthesis (bacteria)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+APRAUR	RIBOFLAVINSYNREDUC-RXN	toxoflavin biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+ASAD	ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	cremeomycin biosynthesis // dipicolinate biosynthesis // ectoine biosynthesis // grixazone biosynthesis // L-homoserine biosynthesis // L-lysine biosynthesis I // L-lysine biosynthesis II // L-lysine biosynthesis III // L-lysine biosynthesis VI // L-methionine biosynthesis IV // norspermidine biosynthesis // platensimycin biosynthesis // spermidine biosynthesis II	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+ASPK	ASPARTATEKIN-RXN	cremeomycin biosynthesis // spermidine biosynthesis II // L-methionine biosynthesis IV // platensimycin biosynthesis // L-homoserine biosynthesis // dipicolinate biosynthesis // 3-dehydroquinate biosynthesis II (archaea) // L-lysine biosynthesis I // grixazone biosynthesis // L-lysine biosynthesis VI // L-lysine biosynthesis III // L-lysine biosynthesis II // norspermidine biosynthesis // ectoine biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+ASPO6	L-ASPARTATE-OXID-RXN	nicotine biosynthesis // superpathway of nicotine biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+BHTS	RXN-13531	hopanoid biosynthesis (bacteria)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+CDGS	RXN0-6575	preQ<sub>0</sub> biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+CDPMEK	2.7.1.148-RXN	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+DHPPDA2	RIBOFLAVINSYNDEAM-RXN	toxoflavin biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+DMPPS	ISPH2-RXN	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+DMPPS1	RXN0-884	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+DPLPTAT1	RXN-13528	hopanoid biosynthesis (bacteria)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+DXPRIi	DXPREDISOM-RXN	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+EAR100x	RXN-9660	streptorubin B biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+EAR120x	RXN-9661	streptorubin B biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+EAR40x	RXN-9657	streptorubin B biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+EAR60x	RXN-9658	streptorubin B biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+EAR80x	RXN-9659	streptorubin B biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+FACOAL40It2pp	RXN-18447	colupulone and cohumulone biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+FHS	RXN-13530	hopanoid biosynthesis (bacteria)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+GTPCII2	GTP-CYCLOHYDRO-II-RXN	toxoflavin biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+HMBDPO	RXN0-882	methylerythritol phosphate pathway II	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+IPDDI	IPPISOM-RXN	mevalonate pathway IV (archaea) // mono-<i>trans</i>, poly-<i>cis</i> decaprenyl phosphate biosynthesis // mevalonate pathway III (Thermoplasma) // mevalonate pathway I (eukaryotes and bacteria) // <i>all-trans</i>-farnesol biosynthesis // methylerythritol phosphate pathway I // methylerythritol phosphate pathway II // isoprene biosynthesis II (engineered) // bisabolene biosynthesis (engineered) // mevalonate pathway II (haloarchaea)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+IVCS	RXN-18446	lupulone and humulone biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+KAS15	2.3.1.180-RXN	streptorubin B biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+M2AHTS	RXN-13532	hopanoid biosynthesis (bacteria)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+M2DPTS	RXN-13535	hopanoid biosynthesis (bacteria)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+M2TTHS	RXN-13534	hopanoid biosynthesis (bacteria)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+MECDPS	RXN0-302	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+MEPCT	2.7.7.60-RXN	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+PMDPHT	RIBOPHOSPHAT-RXN	toxoflavin biosynthesis // flavin biosynthesis III (fungi) // flavin biosynthesis II (archaea) // flavin biosynthesis I (bacteria and plants)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+PSPPS	RXN-12263	botryococcenes and methylated squalene biosynthesis // epoxysqualene biosynthesis // hopanoid biosynthesis (bacteria) // 4,4'-diapolycopenedioate biosynthesis // staphyloxanthin biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+RHS	RXN-13529	hopanoid biosynthesis (bacteria)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+SQLC	5.4.99.17-RXN	diploterol biosynthesis // hopanoid biosynthesis (bacteria)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+SQLC2	RXN-4961	diploterol biosynthesis // hopanoid biosynthesis (bacteria)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+SQLS	RXN-13162	epoxysqualene biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+SQLSx	RXN-13162	epoxysqualene biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+SS	RXN-13724	botryococcenes and methylated squalene biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+SSx	RXN66-281	epoxysqualene biosynthesis	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+TTHS	RXN-12337	hopanoid biosynthesis (bacteria)	Secondary Metabolite Biosynthesis	Secondary Metabolite Biosynthesis
+ACONT	RXN-14047	TCA cycle VI (Helicobacter) // glyoxylate cycle // ethene biosynthesis V (engineered) // reductive TCA cycle II // TCA cycle I (prokaryotic) // TCA cycle II (plants and fungi) // methylaspartate cycle // TCA cycle III (animals) // partial TCA cycle (obligate autotrophs) // TCA cycle VII (acetate-producers) // TCA cycle V (2-oxoglutarate synthase) // TCA cycle IV (2-oxoglutarate decarboxylase) // nitrogen remobilization from senescing leaves // reductive TCA cycle I // mixed acid fermentation	TCA Cycle	TCA Cycle
+AKGDH	2OXOGLUTARATEDEH-RXN	2-oxoglutarate decarboxylation to succinyl-CoA // TCA cycle VIII (Chlamydia) // TCA cycle III (animals) // TCA cycle II (plants and fungi) // TCA cycle I (prokaryotic)	TCA Cycle	TCA Cycle
+CS	CITSYN-RXN	mixed acid fermentation // nitrogen remobilization from senescing leaves // partial TCA cycle (obligate autotrophs) // TCA cycle I (prokaryotic) // TCA cycle II (plants and fungi) // TCA cycle III (animals) // TCA cycle IV (2-oxoglutarate decarboxylase) // TCA cycle V (2-oxoglutarate synthase) // TCA cycle VI (Helicobacter) // TCA cycle VII (acetate-producers)	TCA Cycle	TCA Cycle
+FUM	FUMHYDR-RXN	mixed acid fermentation // partial TCA cycle (obligate autotrophs) // pyruvate fermentation to propanoate I // reductive TCA cycle I // reductive TCA cycle II // superpathway of glyoxylate cycle and fatty acid degradation // TCA cycle I (prokaryotic) // TCA cycle II (plants and fungi) // TCA cycle III (animals) // TCA cycle IV (2-oxoglutarate decarboxylase) // TCA cycle V (2-oxoglutarate synthase) // TCA cycle VI (Helicobacter) // TCA cycle VII (acetate-producers) // TCA cycle VIII (Chlamydia)	TCA Cycle	TCA Cycle
+ICHDx	ISOCITDEH-RXN	mixed acid fermentation // reductive TCA cycle I // nitrogen remobilization from senescing leaves // TCA cycle IV (2-oxoglutarate decarboxylase) // TCA cycle V (2-oxoglutarate synthase) // TCA cycle VII (acetate-producers) // partial TCA cycle (obligate autotrophs) // methylaspartate cycle // TCA cycle I (prokaryotic) // cytosolic NADPH production (yeast) // ethene biosynthesis V (engineered) // TCA cycle VI (Helicobacter)	TCA Cycle	TCA Cycle
+ICL	ISOCIT-CLEAV-RXN	glyoxylate cycle	TCA Cycle	TCA Cycle
+MDH	MALATE-DEH-RXN	mixed acid fermentation // anaerobic energy metabolism (invertebrates, cytosol) // (<i>S</i>)-lactate fermentation to propanoate, acetate and hydrogen // reductive TCA cycle I // TCA cycle VIII (Chlamydia) // TCA cycle IV (2-oxoglutarate decarboxylase) // TCA cycle V (2-oxoglutarate synthase) // C4 photosynthetic carbon assimilation cycle, NAD-ME type // pyruvate fermentation to propanoate I // TCA cycle III (animals) // formaldehyde assimilation I (serine pathway) // methylaspartate cycle // gluconeogenesis I // superpathway of glyoxylate cycle and fatty acid degradation // TCA cycle II (plants and fungi) // TCA cycle I (prokaryotic) // reductive TCA cycle II // incomplete reductive TCA cycle // gluconeogenesis III // glyoxylate cycle // malate/L-aspartate shuttle pathway	TCA Cycle	TCA Cycle
+SUCDHm8	R601-RXN	mixed acid fermentation // (<i>S</i>)-lactate fermentation to propanoate, acetate and hydrogen // hydrogen to fumarate electron transfer // reductive TCA cycle I // pyruvate fermentation to propanoate I // glycerol-3-phosphate to fumarate electron transfer // reductive TCA cycle II // incomplete reductive TCA cycle // NADH to fumarate electron transfer // TCA cycle VI (Helicobacter)	TCA Cycle	TCA Cycle
+SUCOAS	SUCCCOASYN-RXN	pyruvate fermentation to acetate V // reductive TCA cycle I // TCA cycle VIII (Chlamydia) // TCA cycle V (2-oxoglutarate synthase) // TCA cycle III (animals) // methylaspartate cycle // TCA cycle II (plants and fungi) // TCA cycle I (prokaryotic) // anaerobic energy metabolism (invertebrates, mitochondrial) // reductive TCA cycle II // incomplete reductive TCA cycle // pyruvate fermentation to acetate VI	TCA Cycle	TCA Cycle
+CPPPGO2	HEMN-RXN	3,8-divinyl-chlorophyllide <i>a</i> biosynthesis II (anaerobic) // heme <i>b</i> biosynthesis II (oxygen-independent)	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+FCLT	PROTOHEMEFERROCHELAT-RXN	heme <i>b</i> biosynthesis V (aerobic)	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+G1SAT	GSAAMINOTRANS-RXN	tetrapyrrole biosynthesis I (from glutamate)	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+GLUTRR	GLUTRNAREDUCT-RXN	tetrapyrrole biosynthesis I (from glutamate)	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+HEMEAS_2	RXN-18399	heme <i>a</i> biosynthesis	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+HEMEOS	HEMEOSYN-RXN	heme <i>a</i> biosynthesis	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+HMBS	OHMETHYLBILANESYN-RXN	tetrapyrrole biosynthesis II (from glycine) // tetrapyrrole biosynthesis I (from glutamate)	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+PC1MT	RXN-8675	siroheme biosynthesis // factor 430 biosynthesis // cob(II)yrinate <i>a,c</i>-diamide biosynthesis II (late cobalt incorporation) // cob(II)yrinate <i>a,c</i>-diamide biosynthesis I (early cobalt insertion)	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+PPBNGS	PORPHOBILSYNTH-RXN	tetrapyrrole biosynthesis II (from glycine)	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+PPPGO2	RXN0-6259	3,8-divinyl-chlorophyllide <i>a</i> biosynthesis II (anaerobic) // heme <i>b</i> biosynthesis II (oxygen-independent)	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+SAMU3_1	UROPORIIIMETHYLTRANSA-RXN	siroheme biosynthesis // factor 430 biosynthesis // cob(II)yrinate <i>a,c</i>-diamide biosynthesis II (late cobalt incorporation) // cob(II)yrinate <i>a,c</i>-diamide biosynthesis I (early cobalt insertion)	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+SHCHD2	DIMETHUROPORDEHYDROG-RXN	siroheme biosynthesis	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+SHCHF	SIROHEME-FERROCHELAT-RXN	siroheme biosynthesis	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+UPP3S	UROGENIIISYN-RXN	tetrapyrrole biosynthesis II (from glycine) // tetrapyrrole biosynthesis I (from glutamate)	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+UPPDC1	UROGENDECARBOX-RXN	heme <i>b</i> biosynthesis V (aerobic)	Tetrapyrrole Biosynthesis	Tetrapyrrole Biosynthesis
+NADPHQR3			ETC	ETC
+ACOHDHpp			C3 Metabolism	C3 Metabolism
+IPPOHDHpp			C3 Metabolism	C3 Metabolism
+ALDD2x			Fermentation	Fermentation

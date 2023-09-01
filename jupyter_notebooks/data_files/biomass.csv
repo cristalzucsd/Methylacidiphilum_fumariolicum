@@ -1,0 +1,101 @@
+bigg,metacyc,class,name,mmol/gDWbiomass
+arg__L,ARG,Amino_Acids,Arginine,0.151
+glu__L,GLT,Amino_Acids,Glutamate,0.498
+gly,GLY,Amino_Acids,Glycine,0.359
+his__L,HIS,Amino_Acids,Histidine,0.092
+ile__L,ILE,Amino_Acids,Isoleucine,0.185
+ala__L,L-ALPHA-ALANINE,Amino_Acids,Alanine,0.353
+asp__L,L-ASPARTATE,Amino_Acids,Aspartate,0.017
+leu__L,LEU,Amino_Acids,Leucine,0.31
+lys__L,LYS,Amino_Acids,Lysine,0.323
+met__L,MET,Amino_Acids,Methionine,0.091
+phe__L,PHE,Amino_Acids,Phenylalanine,0.211
+pro__L,PRO,Amino_Acids,Proline,0.355
+ser__L,SER,Amino_Acids,Serine,0.242
+thr__L,THR,Amino_Acids,Threonine,0.219
+tyr__L,TYR,Amino_Acids,Tyrosine,0.124
+val__L,VAL,Amino_Acids,Valine,0.247
+cys__L,CYS,Amino_Acids,Cysteine,0.033
+asn__L,ASN,Amino_Acids,Asparagine,0.119
+gln__L,GLN,Amino_Acids,Glutamine,0.15
+trp__L,TRP,Amino_Acids,Tryptophan,0.072
+cu2,,Ash,Cu,0.01
+mg2,MG+2,Ash,Mg,0.07
+fe2,FE+2,Ash,Fe,0.0059
+cobalt2,,Ash,Co ,0.001
+ca2,,Ash,Ca ,0.01
+pi,Pi,Ash,P ,0.2
+cl,,Ash,Cl,0.214
+k,K+,Ash,K,0.176
+na1,NA+,Ash,Na ,0.039
+zn2,ZN+2,Ash,Zn,0.001
+mobd,CPD-3,Ash,Mo,0.003158
+mn2,,Ash,Mn,0.00130775
+gdpmann,GDP-MANNOSE,Carbohydrates,Mannose,0.002
+sucr,SUCROSE,Carbohydrates,Sucrose,0.026
+glycogen,Glycogens,Carbohydrates,Glycogen,0.117
+peptido_MF,CPD-17927,Cell_wall,Peptidoglycan,0.053
+kdo2lipid4,KDO2-LIPID-IVA,Cell_wall,KDO(2)-lipidIV(A),0.002
+coa,CO-A,Cofactors,coenzyme-A,0.00022
+fad,FAD,Cofactors,FAD,0.00022
+fmn,FMN,Cofactors,FMN,0.00022
+inost,MYO-INOSITOL,Cofactors,Inositol30,0.0001
+pydx5p,PYRIDOXAL_PHOSPHATE,Cofactors,Pyridoxal-5-phosphate,0.000223
+ribflv,RIBOFLAVIN,Cofactors,Riboflavin B2,0.0001
+amet,S-ADENOSYLMETHIONINE,Cofactors,S-Adenosyl-L-methionine,0.00022
+sheme,SIROHEME,Cofactors,Siroheme,0.000223
+thmpp,THIAMINE-PYROPHOSPHATE,Cofactors,Thiamin B1,0.0001
+q8h2,UBIQUINOL-30,Cofactors,Ubiquinol-8,0.00022
+btn,BIOTIN,Cofactors,Biotine B7,0.0001
+mql8,REDUCED-MENAQUINONE,Cofactors,Menaquinol,0.0001
+mlthf,METHYLENE-THF-GLU-N,Cofactors,,0.000223
+thf,THF-GLU-N,Cofactors,,0.000223
+10fthf,FORMYL-THF-GLU-N,Cofactors,,0.00022
+pheme,,Cofactors,Protoheme,0.00022
+nadh,,Cofactors,,0.002
+nadph,,Cofactors,,0.001
+nad,,Cofactors,,-0.002
+nadp,,Cofactors,,-0.001
+h,,Cofactors,,-0.003
+datp,DATP,DNA,dATP,0.0021
+dctp,DCTP,DNA,dCTP,0.002
+dgtp,DGTP,DNA,dGTP,0.002
+dttp,TTP,DNA,dTTP,0.0021
+ttdca,CPD-7836,FAME,C14:0(myristate),0.0459
+hdca,PALMITATE,FAME,C16:0(palmitate),0.1355
+ocdca,STEARIC_ACID,FAME,C18:0(stearate),0.1526
+2pg,2-PG,Intracellular_Metabolites,Phosphoglycerate,0.006
+accoa,ACETYL-COA,Intracellular_Metabolites,Acetyl-CoA,0.0001
+cit,CIT,Intracellular_Metabolites,Citrate,0.001
+6pgc,CPD-2961,Intracellular_Metabolites,D-gluconate 6-phosphate,0.00015
+g6p,D-glucopyranose-6-phosphate,Intracellular_Metabolites,Glucose-6-phosphate,0.002
+fdp_B,FRUCTOSE-16-DIPHOSPHATE,Intracellular_Metabolites,Fructose-16-bisphosphate,0.001
+f6p_B,FRUCTOSE-6P,Intracellular_Metabolites,Fructose-6-phosphate,0.003
+fum,FUM,Intracellular_Metabolites,Fumarate,0.001
+g3p,GAP,Intracellular_Metabolites,Glyceraldehyde-3-phosphate/Dihydroxyacetone,0.003
+mal__L,MAL,Intracellular_Metabolites,Malate,0.004
+pep,PHOSPHO-ENOL-PYRUVATE,Intracellular_Metabolites,Phosphoenolpyruvate,0.005
+ppi,PPI,Intracellular_Metabolites,polyP(PPi),0.029
+pyr,PYRUVATE,Intracellular_Metabolites,Pyruvate,0.015
+ru5p__D,RIBULOSE-5P,Intracellular_Metabolites,Ribulose-5-phosphate/Ribose-5-phosphate,0.001
+succ,SUC,Intracellular_Metabolites,Succinate,0.002
+pg180,CPD-12822,Phospholipids,"phosphatidylglycerol(dioctadecanoyl,n-C18:0)",0.0268
+pg160,CPD-8260,Phospholipids,"phosphatidylglycerol(dihexadecanoyl,n-C16:0)",0.0238
+pg140,CPD-19677,Phospholipids,"phosphatidylglycerol (ditetradecanoyl, n-C14:0)",0.0081
+ps180,CPD-12816,Phospholipids,"phosphatidylserine (dioctadecanoyl, n-C18:0)",0.00091
+ps160,CPD-12817,Phospholipids,"phosphatidylserine (dihexadecanoyl, n-C16:0)",0.000808
+ps140,CPD-18401,Phospholipids,"phosphatidylserine (1,2-dimyristoyl)",0.000274
+pe180,CPD-12818,Phospholipids,"phosphatidylethanolamine (dioctadecanoyl, n-C18:0)",0.0391
+pe160,CPD-12819,Phospholipids,"phosphatidylethanolamine (dihexadecanoyl, n-C16:0)",0.0347
+pe140,CPD-17087,Phospholipids,"phosphatidylethanolamine (ditetradecanoyl, n-C14:0)",0.0118
+clpn180,clpn180,Phospholipids,"cardiolipin (tetraoctadecanoyl, n-C18:0)",0.027
+clpn160,CPD-12824,Phospholipids,"cardiolipin (tetrahexadecanoyl, n-C16:0)",0.0239
+clpn140,CPD-19676,Phospholipids,"cardiolipin (tetratetradecanoyl, n-C14:0)",0.0081
+atp,ATP,RNA,ATP,0.05
+ctp,CTP,RNA,CTP,0.047
+gtp,GTP,RNA,GTP,0.047
+utp,UTP,RNA,UTP,0.05
+thymol,CPD-14517,Sterols,tetrahymanol,0.041
+abhptriol,CPD-14521,Sterols,aminotriol(III)65%ofBHP,0.008
+sql,SQUALENE,Sterols,squalene,0.04
+GAM,,,growth associated maintenance (mmol ATP gcel-1 h-1) (sd 1.0564),10.86
